@@ -1810,7 +1810,7 @@
     },
     "easyhook": {
       "baseline": "2.7.6789.0",
-      "port-version": 0
+      "port-version": 1
     },
     "easyloggingpp": {
       "baseline": "9.96.7-1",
@@ -2093,7 +2093,7 @@
       "port-version": 0
     },
     "forge": {
-      "baseline": "1.0.7",
+      "baseline": "1.0.8",
       "port-version": 0
     },
     "fp16": {
@@ -2705,7 +2705,7 @@
       "port-version": 0
     },
     "inja": {
-      "baseline": "3.2.0",
+      "baseline": "3.3.0",
       "port-version": 0
     },
     "intel-ipsec": {
@@ -4357,7 +4357,7 @@
       "port-version": 1
     },
     "nghttp2": {
-      "baseline": "1.42.0",
+      "baseline": "1.44.0",
       "port-version": 0
     },
     "ngspice": {
@@ -4890,7 +4890,7 @@
     },
     "pistache": {
       "baseline": "2021-03-31",
-      "port-version": 1
+      "port-version": 2
     },
     "pixel": {
       "baseline": "0.3-1",
