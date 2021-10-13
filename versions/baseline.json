@@ -2524,6 +2524,10 @@
       "baseline": "0.7.0",
       "port-version": 2
     },
+    "graphviz": {
+      "baseline": "2.49.1",
+      "port-version": 0
+    },
     "greatest": {
       "baseline": "1.5.0",
       "port-version": 0
@@ -5966,7 +5970,7 @@
     },
     "ryml": {
       "baseline": "2021-07-24",
-      "port-version": 0
+      "port-version": 1
     },
     "ryu": {
       "baseline": "2.0",
@@ -6902,7 +6906,7 @@
     },
     "v8": {
       "baseline": "9.1.269.39",
-      "port-version": 0
+      "port-version": 1
     },
     "valijson": {
       "baseline": "0.6",
