@@ -1,6 +1,4 @@
-vcpkg_fail_port_install(ON_TARGET "Linux" "OSX" "UWP" ON_ARCH "arm" ON_LIBRARY_LINKAGE "static")
-
-message(WARNING ".Net framework 4.0 is required, please install it before install easyhook.")
+message(WARNING ".Net framework 4.0 is required, please install it before installing easyhook.")
 
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
@@ -19,10 +17,31 @@ else()
     message(FATAL_ERROR "Unsupported architecture: ${VCPKG_TARGET_ARCHITECTURE}")
 endif()
 
+# Use /Z7 rather than /Zi to avoid "fatal error C1090: PDB API call failed, error code '23': (0x00000006)"
+foreach(VCXPROJ IN ITEMS
+    "${SOURCE_PATH}/EasyHookDll/EasyHookDll.vcxproj"
+    "${SOURCE_PATH}/Examples/UnmanagedHook/UnmanagedHook.vcxproj")
+    vcpkg_replace_string(
+        "${VCXPROJ}"
+        "<DebugInformationFormat>ProgramDatabase</DebugInformationFormat>"
+        "<DebugInformationFormat>OldStyle</DebugInformationFormat>"
+    )
+    vcpkg_replace_string(
+        "${VCXPROJ}"
+        "<DebugInformationFormat>EditAndContinue</DebugInformationFormat>"
+        "<DebugInformationFormat>OldStyle</DebugInformationFormat>"
+    )
+    vcpkg_replace_string(
+        "${VCXPROJ}"
+        "<MinimalRebuild>true</MinimalRebuild>"
+        ""
+    )
+endforeach()
+
 vcpkg_install_msbuild(
     SOURCE_PATH ${SOURCE_PATH}
     PROJECT_SUBPATH EasyHook.sln
-	TARGET EasyHookDll
+    TARGET EasyHookDll
     RELEASE_CONFIGURATION "netfx4-Release"
     DEBUG_CONFIGURATION "netfx4-Debug"
     PLATFORM ${BUILD_ARCH}
