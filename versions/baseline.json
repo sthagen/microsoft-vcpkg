@@ -361,7 +361,7 @@
       "port-version": 0
     },
     "azure-storage-common-cpp": {
-      "baseline": "12.2.3",
+      "baseline": "12.2.4",
       "port-version": 0
     },
     "azure-storage-cpp": {
@@ -1682,7 +1682,7 @@
     },
     "crashpad": {
       "baseline": "2022-04-16",
-      "port-version": 0
+      "port-version": 1
     },
     "crashrpt": {
       "baseline": "1.4.3",
@@ -2706,7 +2706,7 @@
     },
     "gts": {
       "baseline": "0.7.6",
-      "port-version": 4
+      "port-version": 5
     },
     "guetzli": {
       "baseline": "2020-09-14",
@@ -2738,6 +2738,10 @@
     },
     "happly": {
       "baseline": "2021-03-19",
+      "port-version": 0
+    },
+    "hareflow": {
+      "baseline": "0.1.0",
       "port-version": 0
     },
     "harfbuzz": {
