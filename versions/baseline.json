@@ -1169,7 +1169,7 @@
       "port-version": 0
     },
     "bshoshany-thread-pool": {
-      "baseline": "2.0.0",
+      "baseline": "3.0.0",
       "port-version": 0
     },
     "bsio": {
@@ -1177,8 +1177,8 @@
       "port-version": 0
     },
     "buck-yeh-bux": {
-      "baseline": "1.6.5",
-      "port-version": 1
+      "baseline": "1.6.6",
+      "port-version": 0
     },
     "buck-yeh-bux-mariadb-client": {
       "baseline": "1.0.3",
@@ -1682,7 +1682,7 @@
     },
     "cpuinfo": {
       "baseline": "2022-04-02",
-      "port-version": 0
+      "port-version": 1
     },
     "cr": {
       "baseline": "2020-04-26",
@@ -2874,7 +2874,7 @@
     },
     "ignition-cmake2": {
       "baseline": "2.5.0",
-      "port-version": 2
+      "port-version": 3
     },
     "ignition-common1": {
       "baseline": "1.1.1",
@@ -2882,7 +2882,7 @@
     },
     "ignition-common3": {
       "baseline": "3.9.0",
-      "port-version": 3
+      "port-version": 4
     },
     "ignition-fuel-tools1": {
       "baseline": "1.2.0",
@@ -2902,7 +2902,7 @@
     },
     "ignition-modularscripts": {
       "baseline": "2022-05-11",
-      "port-version": 0
+      "port-version": 1
     },
     "ignition-msgs1": {
       "baseline": "1.0.0",
@@ -4304,6 +4304,10 @@
       "baseline": "0.9.29",
       "port-version": 2
     },
+    "lockpp": {
+      "baseline": "1.0.2",
+      "port-version": 0
+    },
     "lodepng": {
       "baseline": "2021-12-04",
       "port-version": 1
@@ -4766,7 +4770,7 @@
     },
     "mygui": {
       "baseline": "3.4.1",
-      "port-version": 2
+      "port-version": 3
     },
     "nameof": {
       "baseline": "0.10.1",
@@ -5609,7 +5613,7 @@
       "port-version": 1
     },
     "proj": {
-      "baseline": "9.0.0",
+      "baseline": "9.0.1",
       "port-version": 0
     },
     "proj4": {
@@ -6382,6 +6386,10 @@
     },
     "sassc": {
       "baseline": "3.6.2",
+      "port-version": 0
+    },
+    "saucer": {
+      "baseline": "1.0.0",
       "port-version": 0
     },
     "sbp": {
@@ -7621,12 +7629,12 @@
       "port-version": 0
     },
     "wxcharts": {
-      "baseline": "2022-04-22",
+      "baseline": "2022-06-16",
       "port-version": 0
     },
     "wxwidgets": {
       "baseline": "3.1.6",
-      "port-version": 1
+      "port-version": 2
     },
     "x-plane": {
       "baseline": "3.0.3",
