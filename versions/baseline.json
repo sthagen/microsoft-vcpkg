@@ -582,7 +582,7 @@
     },
     "boost-build": {
       "baseline": "1.79.0",
-      "port-version": 0
+      "port-version": 1
     },
     "boost-callable-traits": {
       "baseline": "1.79.0",
@@ -834,7 +834,7 @@
     },
     "boost-modular-build-helper": {
       "baseline": "1.79.0",
-      "port-version": 3
+      "port-version": 4
     },
     "boost-move": {
       "baseline": "1.79.0",
@@ -1618,7 +1618,7 @@
     },
     "cppcodec": {
       "baseline": "0.2",
-      "port-version": 2
+      "port-version": 3
     },
     "cppcoro": {
       "baseline": "2020-02-28",
@@ -2709,7 +2709,7 @@
       "port-version": 5
     },
     "gtest": {
-      "baseline": "1.12.0",
+      "baseline": "1.12.1",
       "port-version": 0
     },
     "gtk": {
@@ -4189,7 +4189,7 @@
       "port-version": 11
     },
     "libuv": {
-      "baseline": "1.43.0",
+      "baseline": "1.44.1",
       "port-version": 0
     },
     "libuvc": {
@@ -4298,7 +4298,7 @@
     },
     "llfio": {
       "baseline": "2.0-20220112",
-      "port-version": 1
+      "port-version": 2
     },
     "llgl": {
       "baseline": "2019-08-15",
@@ -4857,7 +4857,7 @@
       "port-version": 0
     },
     "ned14-internal-quickcpplib": {
-      "baseline": "2022-06-17",
+      "baseline": "2022-07-04",
       "port-version": 0
     },
     "neon2sse": {
@@ -4965,8 +4965,8 @@
       "port-version": 0
     },
     "nuklear": {
-      "baseline": "2021-03-18",
-      "port-version": 1
+      "baseline": "2022-05-12",
+      "port-version": 0
     },
     "numactl": {
       "baseline": "2.0.14",
@@ -5225,7 +5225,7 @@
       "port-version": 2
     },
     "openssl": {
-      "baseline": "3.0.4",
+      "baseline": "3.0.5",
       "port-version": 0
     },
     "openssl-unix": {
@@ -5726,7 +5726,7 @@
     },
     "qpid-proton": {
       "baseline": "0.37.0",
-      "port-version": 2
+      "port-version": 3
     },
     "qscintilla": {
       "baseline": "2.12.0",
@@ -6202,7 +6202,7 @@
     },
     "readline-win32": {
       "baseline": "5.0",
-      "port-version": 4
+      "port-version": 5
     },
     "readosm": {
       "baseline": "1.1.0a",
@@ -6986,7 +6986,7 @@
     },
     "tensorpipe": {
       "baseline": "2022-03-16",
-      "port-version": 0
+      "port-version": 1
     },
     "termcolor": {
       "baseline": "2.1.0",
@@ -7322,7 +7322,7 @@
     },
     "usockets": {
       "baseline": "0.8.1",
-      "port-version": 0
+      "port-version": 1
     },
     "usrsctp": {
       "baseline": "0.9.5.0",
@@ -7358,7 +7358,7 @@
     },
     "uvw": {
       "baseline": "2.12.1",
-      "port-version": 0
+      "port-version": 1
     },
     "uwebsockets": {
       "baseline": "20.11.0",
@@ -7621,8 +7621,8 @@
       "port-version": 1
     },
     "wpilib": {
-      "baseline": "2020.3.2",
-      "port-version": 2
+      "baseline": "2020-03-02",
+      "port-version": 3
     },
     "wren": {
       "baseline": "0.4.0",
