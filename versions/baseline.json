@@ -10,7 +10,7 @@
     },
     "ableton": {
       "baseline": "3.0.5",
-      "port-version": 0
+      "port-version": 1
     },
     "abseil": {
       "baseline": "20211102.1",
@@ -38,7 +38,7 @@
     },
     "air-ctl": {
       "baseline": "1.1.2",
-      "port-version": 0
+      "port-version": 1
     },
     "aixlog": {
       "baseline": "1.5.0",
@@ -1941,7 +1941,7 @@
       "port-version": 6
     },
     "dlib": {
-      "baseline": "19.23",
+      "baseline": "19.24",
       "port-version": 0
     },
     "dmlc": {
@@ -2369,7 +2369,7 @@
       "port-version": 5
     },
     "freerdp": {
-      "baseline": "2.5.0",
+      "baseline": "2.7.0",
       "port-version": 0
     },
     "freetds": {
@@ -2718,7 +2718,7 @@
     },
     "gtk": {
       "baseline": "4.6.2",
-      "port-version": 1
+      "port-version": 2
     },
     "gtkmm": {
       "baseline": "4.6.0",
@@ -3677,8 +3677,8 @@
       "port-version": 1
     },
     "libharu": {
-      "baseline": "2017-08-15",
-      "port-version": 10
+      "baseline": "2.4.0-rc1",
+      "port-version": 0
     },
     "libhdfs3": {
       "baseline": "2019-11-05",
@@ -3778,6 +3778,10 @@
     },
     "liblsl": {
       "baseline": "1.16.0",
+      "port-version": 0
+    },
+    "liblsquic": {
+      "baseline": "3.1.1",
       "port-version": 0
     },
     "liblzma": {
@@ -3929,8 +3933,8 @@
       "port-version": 1
     },
     "libpff": {
-      "baseline": "2018-07-14",
-      "port-version": 3
+      "baseline": "2021-11-14",
+      "port-version": 0
     },
     "libplist": {
       "baseline": "1.3.6",
@@ -5130,7 +5134,7 @@
     },
     "opencensus-cpp": {
       "baseline": "2021-08-26",
-      "port-version": 0
+      "port-version": 1
     },
     "opencl": {
       "baseline": "2.2",
@@ -5706,7 +5710,7 @@
     },
     "python3": {
       "baseline": "3.10.5",
-      "port-version": 0
+      "port-version": 1
     },
     "qca": {
       "baseline": "2.3.4",
@@ -6357,8 +6361,8 @@
       "port-version": 4
     },
     "rxcpp": {
-      "baseline": "4.1.0",
-      "port-version": 2
+      "baseline": "4.1.1",
+      "port-version": 0
     },
     "rxqt": {
       "baseline": "bb2138c",
@@ -6589,7 +6593,7 @@
       "port-version": 0
     },
     "simdjson": {
-      "baseline": "1.1.0",
+      "baseline": "2.2.0",
       "port-version": 0
     },
     "simdutf": {
@@ -6761,12 +6765,12 @@
       "port-version": 0
     },
     "speex": {
-      "baseline": "1.2.0",
-      "port-version": 11
+      "baseline": "1.2.1",
+      "port-version": 0
     },
     "speexdsp": {
-      "baseline": "1.2.0",
-      "port-version": 8
+      "baseline": "1.2.1",
+      "port-version": 0
     },
     "spirit-po": {
       "baseline": "1.1.2",
@@ -7293,8 +7297,8 @@
       "port-version": 0
     },
     "unrar": {
-      "baseline": "5.8.1",
-      "port-version": 3
+      "baseline": "6.1.7",
+      "port-version": 0
     },
     "upb": {
       "baseline": "2021-10-19",
@@ -7498,7 +7502,7 @@
     },
     "vtk": {
       "baseline": "9.0.3-pv5.9.1",
-      "port-version": 10
+      "port-version": 11
     },
     "vtk-dicom": {
       "baseline": "0.8.12",
@@ -7585,7 +7589,7 @@
       "port-version": 0
     },
     "winreg": {
-      "baseline": "5.1.1",
+      "baseline": "6.0.0",
       "port-version": 0
     },
     "winsock2": {
