@@ -2133,7 +2133,7 @@
       "port-version": 1
     },
     "eve": {
-      "baseline": "2021-10-16",
+      "baseline": "2022-03-15",
       "port-version": 0
     },
     "eventpp": {
@@ -7241,7 +7241,7 @@
       "port-version": 4
     },
     "tree-sitter": {
-      "baseline": "0.26.0",
+      "baseline": "0.20.6",
       "port-version": 0
     },
     "treehh": {
