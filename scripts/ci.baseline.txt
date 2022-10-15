@@ -38,7 +38,6 @@
 apr:arm64-windows=fail
 # broken when `python` is python3, https://github.com/microsoft/vcpkg/issues/18937
 bde:x64-linux=fail
-bitserializer:x64-osx=fail
 bitserializer:arm64-osx=fail
 blitz:x64-uwp=fail
 blitz:arm64-windows=fail
@@ -519,9 +518,6 @@ libtins:arm-uwp=fail
 libtins:x64-uwp=fail
 libtomcrypt:arm64-windows=fail
 libtomcrypt:arm-uwp=fail
-libui:arm-uwp=fail
-libui:x64-linux=fail
-libui:x64-uwp=fail
 libusb:arm-uwp=fail
 libusb:x64-uwp=fail
 libusb:arm64-windows=fail
@@ -599,9 +595,6 @@ mesa:x64-windows-static=fail
 # Missing dependent libraries.
 mesa:x64-linux=fail
 mesa:x64-osx=fail
-# Triggers an ICE
-mfl:x64-windows-static=fail
-mfl:x64-windows-static-md=fail
 mfl:x64-linux=skip
 mfl:x64-osx=skip
 mfl:arm64-osx=skip
@@ -733,7 +726,6 @@ ogdf:x64-windows-static-md=skip
 ogdf:x86-windows        = skip
 # broken when `python` is python3, https://github.com/microsoft/vcpkg/issues/18936
 ogdf:x64-linux=fail
-ogre:x64-osx=fail
 ogre:arm64-osx=fail
 # Conflicts with ogre
 ogre-next:arm64-windows      = skip
@@ -789,7 +781,6 @@ opencv3:x64-windows-static-md = skip
 opencv3:x86-windows           = skip
 opendnp3:x64-uwp=fail
 opendnp3:arm-uwp=fail
-opengl:arm64-windows=skip # https://github.com/microsoft/vcpkg-tool/pull/599
 openmama:x64-windows-static-md=fail
 openmesh:arm64-windows=fail
 openmesh:arm-uwp=fail
@@ -867,12 +858,8 @@ qt5-canvas3d:x64-windows-static-md=skip
 qt5-canvas3d:x86-windows=skip
 # Missing system libraries
 qt5-wayland:x64-osx=fail
-# qtmultimedia needs an EGL fix
-qtmultimedia:x64-linux=fail
 qtwayland:x64-osx=fail
 qtwayland:arm64-osx=fail
-# Post build checks fail
-qtwebengine:arm64-windows=fail
 # Missing prerequisites for CI success
 qt5-webengine:x64-linux=fail
 qt5-webengine:x64-osx=fail
@@ -1079,9 +1066,6 @@ symengine:arm-uwp=fail
 systemc:arm64-windows=fail
 systemc:arm-uwp=fail
 systemc:x64-uwp=fail
-tbb:arm64-windows=fail
-tbb:arm-uwp=fail
-tbb:x64-uwp=fail
 tcl:arm-uwp=fail
 tcl:arm64-windows=fail
 tcl:x64-uwp=fail
@@ -1183,7 +1167,6 @@ wpilib:arm64-windows=fail
 wpilib:x64-osx=fail
 wincrypt:arm64-windows=skip # https://github.com/microsoft/vcpkg-tool/pull/599
 wxchartdir:x64-osx=fail
-wxwidgets:x64-linux=fail
 x265:arm64-windows=fail
 x265:arm-uwp=fail
 x265:x64-uwp=fail
@@ -1246,6 +1229,13 @@ zeroc-ice:arm64-windows=fail
 zeroc-ice:arm-uwp=fail
 zeroc-ice:x64-uwp=fail
 
+# Ports which needs to pass in CI
+cmake:x64-windows=pass
+cmake:x64-windows-static=pass
+cmake:x64-windows-static-md=pass
+cmake:arm64-windows=pass
+cmake:x64-linux=pass
+cmake:x64-osx=pass
 cmake-user:arm-uwp=pass
 cmake-user:arm64-windows=pass
 cmake-user:x64-linux=pass
@@ -1254,6 +1244,12 @@ cmake-user:x64-windows-static-md=pass
 cmake-user:x64-windows-static=pass
 cmake-user:x64-windows=pass
 cmake-user:x86-windows=pass
+qt:x64-windows=pass
+qt:x64-windows-static=pass
+# qt:x64-windows-static-md=pass # hunspell is fail so this cannot pass. 
+qt:arm64-windows=pass
+qt:x64-linux=pass
+# qt:x64-osx=pass # gstreamer issues preventing qtmultimedia
 vcpkg-ci-arrow:x64-windows=pass
 vcpkg-ci-arrow:x64-windows-static=pass
 vcpkg-ci-arrow:x64-windows-static-md=pass
@@ -1300,6 +1296,7 @@ vcpkg-ci-paraview:x64-windows-static=pass
 vcpkg-ci-paraview:x64-windows=pass
 vcpkg-ci-paraview:x86-windows=pass
 vcpkg-ci-wxwidgets:arm64-windows=pass
+vcpkg-ci-wxwidgets:x64-linux=pass
 vcpkg-ci-wxwidgets:x64-osx=pass
 vcpkg-ci-wxwidgets:x64-windows-static-md=pass
 vcpkg-ci-wxwidgets:x64-windows-static=pass
