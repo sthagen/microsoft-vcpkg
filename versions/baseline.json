@@ -2538,7 +2538,7 @@
     },
     "fastrtps": {
       "baseline": "2.7.0",
-      "port-version": 3
+      "port-version": 4
     },
     "fawdlstty-libfv": {
       "baseline": "0.0.8",
@@ -2982,7 +2982,7 @@
     },
     "glslang": {
       "baseline": "13.0.0",
-      "port-version": 0
+      "port-version": 1
     },
     "glui": {
       "baseline": "2019-11-30",
@@ -3122,7 +3122,7 @@
     },
     "gts": {
       "baseline": "0.7.6",
-      "port-version": 7
+      "port-version": 8
     },
     "gtsam": {
       "baseline": "4.2a9",
@@ -4638,7 +4638,7 @@
     },
     "libremidi": {
       "baseline": "4.2.3",
-      "port-version": 1
+      "port-version": 2
     },
     "libressl": {
       "baseline": "3.6.2",
@@ -5591,6 +5591,10 @@
     "mp3lame": {
       "baseline": "3.100",
       "port-version": 11
+    },
+    "mpark-patterns": {
+      "baseline": "2019-10-03",
+      "port-version": 0
     },
     "mpark-variant": {
       "baseline": "1.4.0",
@@ -6680,6 +6684,10 @@
       "baseline": "1.7.1",
       "port-version": 0
     },
+    "proxsuite": {
+      "baseline": "0.5.0",
+      "port-version": 0
+    },
     "proxy": {
       "baseline": "1.1.1",
       "port-version": 0
@@ -7618,7 +7626,7 @@
     },
     "sdl2-mixer-ext": {
       "baseline": "2023-05-04",
-      "port-version": 0
+      "port-version": 1
     },
     "sdl2-net": {
       "baseline": "2.2.0",
