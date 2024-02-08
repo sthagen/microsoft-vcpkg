@@ -93,7 +93,7 @@
       "port-version": 0
     },
     "alsa": {
-      "baseline": "1.2.10",
+      "baseline": "1.2.11",
       "port-version": 0
     },
     "amd-adl-sdk": {
@@ -2174,7 +2174,7 @@
     },
     "dcmtk": {
       "baseline": "3.6.8",
-      "port-version": 1
+      "port-version": 2
     },
     "debug-assert": {
       "baseline": "1.3.3",
@@ -2297,8 +2297,8 @@
       "port-version": 0
     },
     "draco": {
-      "baseline": "1.5.6",
-      "port-version": 1
+      "baseline": "1.5.7",
+      "port-version": 0
     },
     "drlibs": {
       "baseline": "2023-08-16",
@@ -2705,7 +2705,7 @@
       "port-version": 0
     },
     "flecs": {
-      "baseline": "3.2.10",
+      "baseline": "3.2.11",
       "port-version": 0
     },
     "flint": {
@@ -3054,7 +3054,7 @@
     },
     "glpk": {
       "baseline": "5.0",
-      "port-version": 2
+      "port-version": 3
     },
     "glslang": {
       "baseline": "13.1.1",
@@ -3330,6 +3330,10 @@
     },
     "hedley": {
       "baseline": "15",
+      "port-version": 0
+    },
+    "hello-imgui": {
+      "baseline": "1.4.2",
       "port-version": 0
     },
     "hexl": {
@@ -3990,7 +3994,7 @@
     },
     "ktx": {
       "baseline": "4.3.0-beta1",
-      "port-version": 0
+      "port-version": 1
     },
     "kubazip": {
       "baseline": "0.2.6",
@@ -4785,7 +4789,7 @@
       "port-version": 1
     },
     "libremidi": {
-      "baseline": "4.2.4",
+      "baseline": "4.3.0",
       "port-version": 0
     },
     "libressl": {
@@ -7829,8 +7833,8 @@
       "port-version": 1
     },
     "sdl2-mixer": {
-      "baseline": "2.6.3",
-      "port-version": 2
+      "baseline": "2.8.0",
+      "port-version": 0
     },
     "sdl2-mixer-ext": {
       "baseline": "2.6.0",
