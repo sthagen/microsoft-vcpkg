@@ -3749,7 +3749,7 @@
       "port-version": 0
     },
     "juce": {
-      "baseline": "7.0.9",
+      "baseline": "7.0.10",
       "port-version": 0
     },
     "jwt-cpp": {
@@ -5957,7 +5957,7 @@
       "port-version": 3
     },
     "nanosvg": {
-      "baseline": "2022-12-04",
+      "baseline": "2023-12-29",
       "port-version": 0
     },
     "nanovg": {
