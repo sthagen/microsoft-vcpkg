@@ -2601,8 +2601,8 @@
       "port-version": 4
     },
     "fastgltf": {
-      "baseline": "0.7.0",
-      "port-version": 1
+      "baseline": "0.7.1",
+      "port-version": 0
     },
     "fastio": {
       "baseline": "2023-11-06",
@@ -3677,7 +3677,7 @@
       "port-version": 1
     },
     "jasper": {
-      "baseline": "4.2.0",
+      "baseline": "4.2.1",
       "port-version": 0
     },
     "jbig2dec": {
@@ -3817,7 +3817,7 @@
       "port-version": 1
     },
     "kerbal": {
-      "baseline": "2023.12.1",
+      "baseline": "2024.1.1",
       "port-version": 0
     },
     "keystone": {
@@ -4350,7 +4350,7 @@
     },
     "libflac": {
       "baseline": "1.4.3",
-      "port-version": 1
+      "port-version": 2
     },
     "libfontenc": {
       "baseline": "1.1.4",
@@ -4522,7 +4522,7 @@
     },
     "libjxl": {
       "baseline": "0.8.2",
-      "port-version": 1
+      "port-version": 2
     },
     "libkeyfinder": {
       "baseline": "2.2.8",
@@ -4578,7 +4578,7 @@
     },
     "libmad": {
       "baseline": "0.16.4",
-      "port-version": 2
+      "port-version": 3
     },
     "libmagic": {
       "baseline": "5.45",
@@ -4661,7 +4661,7 @@
       "port-version": 3
     },
     "libnick": {
-      "baseline": "2024.2.8",
+      "baseline": "2024.3.0",
       "port-version": 0
     },
     "libnoise": {
@@ -4749,7 +4749,7 @@
       "port-version": 2
     },
     "libphonenumber": {
-      "baseline": "8.13.29",
+      "baseline": "8.13.31",
       "port-version": 0
     },
     "libplist": {
@@ -6842,7 +6842,7 @@
     },
     "poppler": {
       "baseline": "24.2.0",
-      "port-version": 0
+      "port-version": 1
     },
     "popsift": {
       "baseline": "0.9",
