@@ -1334,7 +1334,7 @@
     },
     "braft": {
       "baseline": "2021-26-04",
-      "port-version": 3
+      "port-version": 4
     },
     "breakpad": {
       "baseline": "2023-01-27",
@@ -1350,7 +1350,7 @@
     },
     "brpc": {
       "baseline": "1.6.1",
-      "port-version": 1
+      "port-version": 2
     },
     "brunocodutra-metal": {
       "baseline": "2.1.4",
@@ -4118,7 +4118,7 @@
     },
     "libadwaita": {
       "baseline": "1.3.2",
-      "port-version": 1
+      "port-version": 2
     },
     "libaes-siv": {
       "baseline": "2020-10-15",
@@ -4658,7 +4658,7 @@
     },
     "libnice-gst": {
       "baseline": "0.1.21",
-      "port-version": 3
+      "port-version": 4
     },
     "libnick": {
       "baseline": "2024.3.0",
@@ -4874,7 +4874,7 @@
     },
     "libsercomm": {
       "baseline": "1.3.2",
-      "port-version": 0
+      "port-version": 1
     },
     "libsigcpp": {
       "baseline": "3.6.0",
@@ -5146,7 +5146,7 @@
     },
     "libxcvt": {
       "baseline": "0.1.2",
-      "port-version": 0
+      "port-version": 1
     },
     "libxdamage": {
       "baseline": "1.1.5",
@@ -8989,8 +8989,8 @@
       "port-version": 3
     },
     "vcpkg-gn": {
-      "baseline": "2021-11-16",
-      "port-version": 3
+      "baseline": "2024-02-22",
+      "port-version": 0
     },
     "vcpkg-msbuild": {
       "baseline": "2023-08-08",
@@ -9009,8 +9009,8 @@
       "port-version": 0
     },
     "vcpkg-tool-gn": {
-      "baseline": "2022-04-16",
-      "port-version": 1
+      "baseline": "2024-02-22",
+      "port-version": 0
     },
     "vcpkg-tool-gyp-next": {
       "baseline": "2022-10-15",
