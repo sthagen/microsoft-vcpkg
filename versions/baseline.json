@@ -1409,7 +1409,7 @@
       "port-version": 5
     },
     "c-ares": {
-      "baseline": "1.27.0",
+      "baseline": "1.28.0",
       "port-version": 0
     },
     "c-dbg-macro": {
@@ -2521,7 +2521,7 @@
       "port-version": 1
     },
     "etcd-cpp-apiv3": {
-      "baseline": "0.15.3",
+      "baseline": "0.15.4",
       "port-version": 0
     },
     "etl": {
@@ -3545,7 +3545,7 @@
       "port-version": 0
     },
     "igraph": {
-      "baseline": "0.10.10",
+      "baseline": "0.10.11",
       "port-version": 0
     },
     "iir1": {
@@ -4938,7 +4938,7 @@
     },
     "libsodium": {
       "baseline": "1.0.19",
-      "port-version": 1
+      "port-version": 2
     },
     "libsonic": {
       "baseline": "0.2.0",
@@ -6293,8 +6293,8 @@
       "port-version": 0
     },
     "octomap": {
-      "baseline": "1.9.8",
-      "port-version": 1
+      "baseline": "1.10.0",
+      "port-version": 0
     },
     "ode": {
       "baseline": "0.16.4",
@@ -8766,7 +8766,7 @@
     },
     "trantor": {
       "baseline": "1.5.17",
-      "port-version": 0
+      "port-version": 1
     },
     "tre": {
       "baseline": "0.8.0",
