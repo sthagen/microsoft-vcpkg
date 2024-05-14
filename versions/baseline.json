@@ -173,7 +173,7 @@
       "port-version": 0
     },
     "apriltag": {
-      "baseline": "3.4.0",
+      "baseline": "3.4.2",
       "port-version": 0
     },
     "apsi": {
@@ -6125,7 +6125,7 @@
       "port-version": 4
     },
     "nghttp2": {
-      "baseline": "1.61.0",
+      "baseline": "1.62.0",
       "port-version": 0
     },
     "nghttp2-asio": {
@@ -8378,7 +8378,7 @@
     },
     "sqlite3": {
       "baseline": "3.45.3",
-      "port-version": 0
+      "port-version": 1
     },
     "sqlitecpp": {
       "baseline": "3.3.1",
@@ -8553,7 +8553,7 @@
       "port-version": 0
     },
     "taskflow": {
-      "baseline": "3.6.0",
+      "baseline": "3.7.0",
       "port-version": 0
     },
     "tbb": {
