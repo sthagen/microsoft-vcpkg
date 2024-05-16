@@ -4978,7 +4978,7 @@
     },
     "libsoup": {
       "baseline": "3.4.4",
-      "port-version": 0
+      "port-version": 1
     },
     "libspatialindex": {
       "baseline": "1.9.3",
@@ -7635,6 +7635,10 @@
     "readosm": {
       "baseline": "1.1.0a",
       "port-version": 4
+    },
+    "realm-core": {
+      "baseline": "14.6.2",
+      "port-version": 0
     },
     "realsense2": {
       "baseline": "2.54.2",
