@@ -2969,8 +2969,8 @@
       "port-version": 1
     },
     "gdk-pixbuf": {
-      "baseline": "2.42.10",
-      "port-version": 6
+      "baseline": "2.42.12",
+      "port-version": 0
     },
     "gemmlowp": {
       "baseline": "2021-09-28",
@@ -7150,7 +7150,7 @@
     },
     "qt5-base": {
       "baseline": "5.15.13",
-      "port-version": 1
+      "port-version": 2
     },
     "qt5-canvas3d": {
       "baseline": "0",
@@ -9413,8 +9413,8 @@
       "port-version": 0
     },
     "wxwidgets": {
-      "baseline": "3.2.4",
-      "port-version": 2
+      "baseline": "3.2.5",
+      "port-version": 0
     },
     "wyhash": {
       "baseline": "2023-12-03",
