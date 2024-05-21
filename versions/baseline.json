@@ -2333,7 +2333,7 @@
       "port-version": 1
     },
     "dpp": {
-      "baseline": "10.0.29",
+      "baseline": "10.0.30",
       "port-version": 0
     },
     "draco": {
@@ -3057,7 +3057,7 @@
       "port-version": 0
     },
     "glaze": {
-      "baseline": "2.6.3",
+      "baseline": "2.6.4",
       "port-version": 0
     },
     "glbinding": {
@@ -3374,6 +3374,10 @@
     },
     "hdf5": {
       "baseline": "1.14.2",
+      "port-version": 0
+    },
+    "hdr-histogram": {
+      "baseline": "0.11.8",
       "port-version": 0
     },
     "healpix": {
@@ -5829,7 +5833,7 @@
       "port-version": 0
     },
     "mongoose": {
-      "baseline": "7.13",
+      "baseline": "7.14",
       "port-version": 0
     },
     "monkeys-audio": {
@@ -7861,8 +7865,8 @@
       "port-version": 0
     },
     "sail": {
-      "baseline": "0.9.4",
-      "port-version": 1
+      "baseline": "0.9.5",
+      "port-version": 0
     },
     "sajson": {
       "baseline": "2018-09-21",
@@ -8378,7 +8382,7 @@
     },
     "sqlite-orm": {
       "baseline": "1.8.2",
-      "port-version": 1
+      "port-version": 2
     },
     "sqlite3": {
       "baseline": "3.45.3",
