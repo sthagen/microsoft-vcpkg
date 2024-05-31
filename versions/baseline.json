@@ -2838,7 +2838,7 @@
     },
     "freeimage": {
       "baseline": "3.18.0",
-      "port-version": 26
+      "port-version": 27
     },
     "freeopcua": {
       "baseline": "20190125",
@@ -7322,7 +7322,7 @@
     },
     "qtbase": {
       "baseline": "6.7.0",
-      "port-version": 1
+      "port-version": 2
     },
     "qtcharts": {
       "baseline": "6.7.0",
@@ -8747,6 +8747,10 @@
     "tinythread": {
       "baseline": "1.1",
       "port-version": 6
+    },
+    "tinytiff": {
+      "baseline": "4.0.1.0",
+      "port-version": 0
     },
     "tinytoml": {
       "baseline": "20180219",
