@@ -280,6 +280,10 @@
       "baseline": "5.4.0",
       "port-version": 0
     },
+    "astr": {
+      "baseline": "0.2.1",
+      "port-version": 0
+    },
     "async-mqtt": {
       "baseline": "5.1.1",
       "port-version": 0
@@ -437,7 +441,7 @@
       "port-version": 1
     },
     "azure-core-amqp-cpp": {
-      "baseline": "1.0.0-beta.9",
+      "baseline": "1.0.0-beta.10",
       "port-version": 0
     },
     "azure-core-cpp": {
@@ -1493,8 +1497,8 @@
       "port-version": 5
     },
     "casclib": {
-      "baseline": "2021-11-16",
-      "port-version": 1
+      "baseline": "2024-06-05",
+      "port-version": 0
     },
     "catch": {
       "baseline": "alias",
@@ -2249,7 +2253,7 @@
       "port-version": 1
     },
     "directxmesh": {
-      "baseline": "2024-02-21",
+      "baseline": "2024-06-04",
       "port-version": 0
     },
     "directxsdk": {
@@ -2257,15 +2261,15 @@
       "port-version": 8
     },
     "directxtex": {
-      "baseline": "2024-03-06",
+      "baseline": "2024-06-04",
       "port-version": 0
     },
     "directxtk": {
-      "baseline": "2024-02-21",
+      "baseline": "2024-06-04",
       "port-version": 0
     },
     "directxtk12": {
-      "baseline": "2024-02-21",
+      "baseline": "2024-06-04",
       "port-version": 0
     },
     "dirent": {
@@ -3137,7 +3141,7 @@
       "port-version": 8
     },
     "google-cloud-cpp": {
-      "baseline": "2.24.0",
+      "baseline": "2.25.0",
       "port-version": 0
     },
     "google-cloud-cpp-common": {
@@ -4297,7 +4301,7 @@
       "port-version": 0
     },
     "libdatachannel": {
-      "baseline": "0.20.3",
+      "baseline": "0.21.1",
       "port-version": 0
     },
     "libdatrie": {
@@ -4573,8 +4577,8 @@
       "port-version": 0
     },
     "libjuice": {
-      "baseline": "1.3.4",
-      "port-version": 1
+      "baseline": "1.4.2",
+      "port-version": 0
     },
     "libjxl": {
       "baseline": "0.10.2",
@@ -4721,7 +4725,7 @@
       "port-version": 4
     },
     "libnick": {
-      "baseline": "2024.6.0",
+      "baseline": "2024.6.2",
       "port-version": 0
     },
     "libnoise": {
@@ -6222,7 +6226,7 @@
     },
     "nss": {
       "baseline": "3.99",
-      "port-version": 0
+      "port-version": 1
     },
     "nsync": {
       "baseline": "1.26.0",
@@ -6490,7 +6494,7 @@
     },
     "openimageio": {
       "baseline": "2.5.12.0",
-      "port-version": 0
+      "port-version": 1
     },
     "openjpeg": {
       "baseline": "2.5.2",
@@ -6919,6 +6923,10 @@
     "ponder": {
       "baseline": "3.0.0",
       "port-version": 5
+    },
+    "poolstl": {
+      "baseline": "0.3.5",
+      "port-version": 0
     },
     "poppler": {
       "baseline": "24.3.0",
@@ -8030,7 +8038,7 @@
     },
     "sentry-native": {
       "baseline": "0.7.5",
-      "port-version": 0
+      "port-version": 1
     },
     "septag-dmon": {
       "baseline": "2022-02-08",
@@ -8389,7 +8397,7 @@
       "port-version": 2
     },
     "sqlite3": {
-      "baseline": "3.45.3",
+      "baseline": "3.46.0",
       "port-version": 1
     },
     "sqlitecpp": {
@@ -9025,7 +9033,7 @@
       "port-version": 0
     },
     "uvatlas": {
-      "baseline": "2024-02-21",
+      "baseline": "2024-06-05",
       "port-version": 0
     },
     "uvw": {
