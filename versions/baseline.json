@@ -242,7 +242,7 @@
     },
     "arrow": {
       "baseline": "16.1.0",
-      "port-version": 0
+      "port-version": 1
     },
     "arsenalgear": {
       "baseline": "2.1.0",
@@ -1806,7 +1806,7 @@
     },
     "concurrencpp": {
       "baseline": "0.1.7",
-      "port-version": 0
+      "port-version": 1
     },
     "concurrentqueue": {
       "baseline": "1.0.4",
@@ -2094,7 +2094,7 @@
     },
     "curl": {
       "baseline": "8.8.0",
-      "port-version": 0
+      "port-version": 1
     },
     "curlpp": {
       "baseline": "2018-06-15",
@@ -2353,7 +2353,7 @@
       "port-version": 0
     },
     "drogon": {
-      "baseline": "1.9.4",
+      "baseline": "1.9.5",
       "port-version": 0
     },
     "dstorage": {
@@ -4862,7 +4862,7 @@
     },
     "libpsl": {
       "baseline": "0.21.5",
-      "port-version": 0
+      "port-version": 1
     },
     "libqcow": {
       "baseline": "20221124",
@@ -5702,7 +5702,7 @@
     },
     "mesa": {
       "baseline": "24.0.7",
-      "port-version": 0
+      "port-version": 1
     },
     "meschach": {
       "baseline": "1.2b",
@@ -6506,7 +6506,7 @@
     },
     "openldap": {
       "baseline": "2.5.17",
-      "port-version": 0
+      "port-version": 1
     },
     "openmama": {
       "baseline": "6.3.2",
@@ -6541,8 +6541,8 @@
       "port-version": 4
     },
     "openssl": {
-      "baseline": "3.3.0",
-      "port-version": 1
+      "baseline": "3.3.1",
+      "port-version": 0
     },
     "openssl-unix": {
       "baseline": "deprecated",
@@ -7502,7 +7502,7 @@
     },
     "qtwebengine": {
       "baseline": "6.7.0",
-      "port-version": 2
+      "port-version": 3
     },
     "qtwebsockets": {
       "baseline": "6.7.0",
@@ -7537,7 +7537,7 @@
       "port-version": 9
     },
     "quill": {
-      "baseline": "4.3.0",
+      "baseline": "4.4.0",
       "port-version": 0
     },
     "quirc": {
@@ -7590,6 +7590,10 @@
     },
     "rapidfuzz": {
       "baseline": "3.0.2",
+      "port-version": 0
+    },
+    "rapidhash": {
+      "baseline": "2024-06-08",
       "port-version": 0
     },
     "rapidjson": {
@@ -8393,7 +8397,7 @@
       "port-version": 3
     },
     "sqlcipher": {
-      "baseline": "4.5.6",
+      "baseline": "4.6.0",
       "port-version": 0
     },
     "sqlite-modern-cpp": {
@@ -8485,7 +8489,7 @@
       "port-version": 1
     },
     "stormlib": {
-      "baseline": "9.25",
+      "baseline": "9.26",
       "port-version": 0
     },
     "strict-variant": {
@@ -8845,7 +8849,7 @@
       "port-version": 0
     },
     "trantor": {
-      "baseline": "1.5.18",
+      "baseline": "1.5.19",
       "port-version": 0
     },
     "tre": {
@@ -9686,7 +9690,7 @@
     },
     "zlib-ng": {
       "baseline": "2.1.5",
-      "port-version": 0
+      "port-version": 1
     },
     "zlmediakit": {
       "baseline": "2024-03-30",
