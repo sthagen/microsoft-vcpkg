@@ -453,15 +453,15 @@
       "port-version": 3
     },
     "azure-data-tables-cpp": {
-      "baseline": "1.0.0-beta.2",
+      "baseline": "1.0.0-beta.3",
       "port-version": 0
     },
     "azure-identity-cpp": {
-      "baseline": "1.6.0",
-      "port-version": 1
+      "baseline": "1.8.0",
+      "port-version": 0
     },
     "azure-iot-sdk-c": {
-      "baseline": "2024-03-04",
+      "baseline": "2024-05-21",
       "port-version": 0
     },
     "azure-kinect-sensor-sdk": {
@@ -477,7 +477,7 @@
       "port-version": 2
     },
     "azure-messaging-eventhubs-cpp": {
-      "baseline": "1.0.0-beta.8",
+      "baseline": "1.0.0-beta.9",
       "port-version": 0
     },
     "azure-security-attestation-cpp": {
@@ -3362,7 +3362,7 @@
     },
     "harfbuzz": {
       "baseline": "8.5.0",
-      "port-version": 0
+      "port-version": 1
     },
     "hash-library": {
       "baseline": "8",
@@ -4729,7 +4729,7 @@
       "port-version": 4
     },
     "libnick": {
-      "baseline": "2024.6.2",
+      "baseline": "2024.6.3",
       "port-version": 0
     },
     "libnoise": {
@@ -6562,7 +6562,7 @@
     },
     "opentelemetry-cpp": {
       "baseline": "1.14.2",
-      "port-version": 1
+      "port-version": 2
     },
     "opentracing": {
       "baseline": "1.6.0",
@@ -6622,7 +6622,7 @@
     },
     "osg": {
       "baseline": "3.6.5",
-      "port-version": 24
+      "port-version": 25
     },
     "osg-qt": {
       "baseline": "Qt5",
@@ -8745,7 +8745,7 @@
       "port-version": 0
     },
     "tinygltf": {
-      "baseline": "2.8.22",
+      "baseline": "2.8.23",
       "port-version": 0
     },
     "tinynpy": {
@@ -9146,7 +9146,7 @@
     },
     "vcpkg-tool-meson": {
       "baseline": "1.3.2",
-      "port-version": 3
+      "port-version": 4
     },
     "vcpkg-tool-mozbuild": {
       "baseline": "4.0.2",
@@ -9185,7 +9185,7 @@
       "port-version": 1
     },
     "vincentlaucsb-csv-parser": {
-      "baseline": "2.1.3",
+      "baseline": "2.2.3",
       "port-version": 0
     },
     "visit-struct": {
