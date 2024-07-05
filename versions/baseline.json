@@ -4213,7 +4213,7 @@
       "port-version": 0
     },
     "libass": {
-      "baseline": "0.17.2",
+      "baseline": "0.17.3",
       "port-version": 0
     },
     "libassert": {
@@ -4741,7 +4741,7 @@
       "port-version": 4
     },
     "libnick": {
-      "baseline": "2024.6.9",
+      "baseline": "2024.7.0",
       "port-version": 0
     },
     "libnoise": {
@@ -4801,8 +4801,8 @@
       "port-version": 3
     },
     "liborigin": {
-      "baseline": "3.0.2",
-      "port-version": 2
+      "baseline": "3.0.3",
+      "port-version": 0
     },
     "libosdp": {
       "baseline": "3.0.5",
