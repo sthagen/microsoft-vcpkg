@@ -3254,7 +3254,7 @@
     },
     "gtk": {
       "baseline": "4.14.0",
-      "port-version": 0
+      "port-version": 1
     },
     "gtk3": {
       "baseline": "3.24.38",
@@ -6602,7 +6602,7 @@
     },
     "opentelemetry-cpp": {
       "baseline": "1.16.0",
-      "port-version": 0
+      "port-version": 1
     },
     "opentracing": {
       "baseline": "1.6.0",
