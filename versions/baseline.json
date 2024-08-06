@@ -625,7 +625,7 @@
       "port-version": 0
     },
     "bgfx": {
-      "baseline": "1.128.8777-475",
+      "baseline": "1.128.8786-480",
       "port-version": 0
     },
     "bigint": {
@@ -1410,7 +1410,7 @@
     },
     "bullet3": {
       "baseline": "3.25",
-      "port-version": 1
+      "port-version": 2
     },
     "bustache": {
       "baseline": "1.1.0",
@@ -1433,8 +1433,8 @@
       "port-version": 5
     },
     "c-ares": {
-      "baseline": "1.31.0",
-      "port-version": 1
+      "baseline": "1.33.0",
+      "port-version": 0
     },
     "c-dbg-macro": {
       "baseline": "2020-02-29",
@@ -3165,8 +3165,8 @@
       "port-version": 0
     },
     "google-cloud-cpp": {
-      "baseline": "2.26.0",
-      "port-version": 1
+      "baseline": "2.27.0",
+      "port-version": 0
     },
     "google-cloud-cpp-common": {
       "baseline": "alias",
@@ -4237,7 +4237,7 @@
       "port-version": 5
     },
     "libarchive": {
-      "baseline": "3.7.2",
+      "baseline": "3.7.4",
       "port-version": 0
     },
     "libass": {
@@ -5906,7 +5906,7 @@
     },
     "mongo-c-driver": {
       "baseline": "1.27.4",
-      "port-version": 1
+      "port-version": 2
     },
     "mongo-cxx-driver": {
       "baseline": "3.10.2",
@@ -6191,6 +6191,10 @@
     "netcdf-cxx4": {
       "baseline": "4.3.1",
       "port-version": 5
+    },
+    "netcpp": {
+      "baseline": "0.3.4",
+      "port-version": 0
     },
     "netgen": {
       "baseline": "6.2.2401",
@@ -6486,7 +6490,7 @@
     },
     "openal-soft": {
       "baseline": "1.23.1",
-      "port-version": 0
+      "port-version": 1
     },
     "openblas": {
       "baseline": "0.3.27",
@@ -6569,8 +6573,8 @@
       "port-version": 4
     },
     "openimageio": {
-      "baseline": "2.5.12.0",
-      "port-version": 2
+      "baseline": "2.5.14.0",
+      "port-version": 0
     },
     "openjpeg": {
       "baseline": "2.5.2",
@@ -7698,7 +7702,7 @@
     },
     "raylib": {
       "baseline": "5.0",
-      "port-version": 0
+      "port-version": 1
     },
     "rbdl": {
       "baseline": "3.3.0",
@@ -8098,7 +8102,7 @@
     },
     "sdl2pp": {
       "baseline": "0.16.1",
-      "port-version": 9
+      "port-version": 10
     },
     "seacas": {
       "baseline": "2022-11-22",
@@ -8585,8 +8589,8 @@
       "port-version": 0
     },
     "str-view": {
-      "baseline": "0.3.11",
-      "port-version": 1
+      "baseline": "0.4.0",
+      "port-version": 0
     },
     "strict-variant": {
       "baseline": "0.5",
@@ -9333,7 +9337,7 @@
       "port-version": 2
     },
     "vsg": {
-      "baseline": "1.1.2",
+      "baseline": "1.1.7",
       "port-version": 0
     },
     "vsgimgui": {
