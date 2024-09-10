@@ -708,6 +708,10 @@
       "baseline": "3.24.6",
       "port-version": 0
     },
+    "bluescarni-tanuki": {
+      "baseline": "2024-08-17",
+      "port-version": 0
+    },
     "boinc": {
       "baseline": "8.0.3",
       "port-version": 0
@@ -2385,7 +2389,7 @@
       "port-version": 0
     },
     "drogon": {
-      "baseline": "1.9.6",
+      "baseline": "1.9.7",
       "port-version": 0
     },
     "dstorage": {
@@ -5846,7 +5850,7 @@
     },
     "microsoft-signalr": {
       "baseline": "0.1.0-alpha4",
-      "port-version": 11
+      "port-version": 12
     },
     "mikktspace": {
       "baseline": "2020-10-06",
@@ -5950,7 +5954,7 @@
     },
     "mongo-cxx-driver": {
       "baseline": "3.10.2",
-      "port-version": 0
+      "port-version": 1
     },
     "mongoose": {
       "baseline": "7.15",
@@ -6666,7 +6670,7 @@
     },
     "openssl": {
       "baseline": "3.3.2",
-      "port-version": 0
+      "port-version": 1
     },
     "openssl-unix": {
       "baseline": "deprecated",
@@ -9005,7 +9009,7 @@
       "port-version": 0
     },
     "trantor": {
-      "baseline": "1.5.20",
+      "baseline": "1.5.21",
       "port-version": 0
     },
     "tre": {
