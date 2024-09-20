@@ -82,7 +82,7 @@
     },
     "aliyun-oss-cpp-sdk": {
       "baseline": "1.10.0",
-      "port-version": 0
+      "port-version": 1
     },
     "allegro5": {
       "baseline": "5.2.9.1",
@@ -261,7 +261,7 @@
       "port-version": 0
     },
     "asio-grpc": {
-      "baseline": "3.1.0",
+      "baseline": "3.2.0",
       "port-version": 0
     },
     "asiochan": {
@@ -573,7 +573,7 @@
       "port-version": 1
     },
     "bdwgc": {
-      "baseline": "8.2.6",
+      "baseline": "8.2.8",
       "port-version": 0
     },
     "beast": {
@@ -2114,7 +2114,7 @@
     },
     "cudnn": {
       "baseline": "7.6.5",
-      "port-version": 13
+      "port-version": 14
     },
     "cunit": {
       "baseline": "2.1.3",
@@ -5753,7 +5753,7 @@
       "port-version": 7
     },
     "mathter": {
-      "baseline": "1.1.2",
+      "baseline": "2.0.0",
       "port-version": 0
     },
     "matio": {
@@ -7909,7 +7909,7 @@
       "port-version": 1
     },
     "roaring": {
-      "baseline": "4.1.2",
+      "baseline": "4.1.3",
       "port-version": 0
     },
     "robin-hood-hashing": {
@@ -8325,8 +8325,8 @@
       "port-version": 0
     },
     "simsimd": {
-      "baseline": "5.2.1",
-      "port-version": 1
+      "baseline": "5.4.0",
+      "port-version": 0
     },
     "sjpeg": {
       "baseline": "2021-10-31",
