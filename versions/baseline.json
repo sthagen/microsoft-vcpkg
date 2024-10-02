@@ -289,7 +289,7 @@
       "port-version": 0
     },
     "async-mqtt": {
-      "baseline": "9.0.0",
+      "baseline": "9.0.1",
       "port-version": 0
     },
     "async-simple": {
@@ -7238,7 +7238,7 @@
     },
     "pulseaudio": {
       "baseline": "17.0",
-      "port-version": 1
+      "port-version": 2
     },
     "pulzed-mini": {
       "baseline": "0.9.14",
@@ -7258,7 +7258,7 @@
     },
     "python3": {
       "baseline": "3.11.8",
-      "port-version": 4
+      "port-version": 5
     },
     "qca": {
       "baseline": "2.3.7",
@@ -8396,10 +8396,6 @@
       "baseline": "1.2.1",
       "port-version": 0
     },
-    "sndfile": {
-      "baseline": "0",
-      "port-version": 2
-    },
     "snitch": {
       "baseline": "1.2.5",
       "port-version": 0
@@ -9293,7 +9289,7 @@
       "port-version": 0
     },
     "vcpkg-get-python": {
-      "baseline": "2024-06-08",
+      "baseline": "2024-06-22",
       "port-version": 0
     },
     "vcpkg-get-python-packages": {
