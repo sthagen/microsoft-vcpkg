@@ -25,7 +25,7 @@
       "port-version": 3
     },
     "ace": {
-      "baseline": "8.0.0",
+      "baseline": "8.0.1",
       "port-version": 0
     },
     "acl": {
@@ -4725,7 +4725,7 @@
       "port-version": 1
     },
     "liblzma": {
-      "baseline": "5.6.2",
+      "baseline": "5.6.3",
       "port-version": 0
     },
     "libmad": {
@@ -5973,8 +5973,8 @@
       "port-version": 0
     },
     "mongo-cxx-driver": {
-      "baseline": "3.10.2",
-      "port-version": 1
+      "baseline": "3.11.0",
+      "port-version": 0
     },
     "mongoose": {
       "baseline": "7.15",
@@ -9641,8 +9641,8 @@
       "port-version": 0
     },
     "wxwidgets": {
-      "baseline": "3.2.5",
-      "port-version": 3
+      "baseline": "3.2.6",
+      "port-version": 0
     },
     "wyhash": {
       "baseline": "2023-12-03",
