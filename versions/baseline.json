@@ -466,7 +466,7 @@
     },
     "azure-identity-cpp": {
       "baseline": "1.10.0",
-      "port-version": 0
+      "port-version": 1
     },
     "azure-iot-sdk-c": {
       "baseline": "2024-08-12",
@@ -3125,8 +3125,8 @@
       "port-version": 2
     },
     "glib": {
-      "baseline": "2.78.4",
-      "port-version": 4
+      "baseline": "2.80.0",
+      "port-version": 0
     },
     "glib-networking": {
       "baseline": "2.78.0",
@@ -4998,7 +4998,7 @@
     },
     "libressl": {
       "baseline": "3.9.2",
-      "port-version": 1
+      "port-version": 2
     },
     "librsvg": {
       "baseline": "2.40.20",
