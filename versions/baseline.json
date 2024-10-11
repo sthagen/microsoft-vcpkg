@@ -2602,7 +2602,7 @@
     },
     "exiv2": {
       "baseline": "0.28.3",
-      "port-version": 1
+      "port-version": 2
     },
     "expat": {
       "baseline": "2.6.3",
@@ -7774,7 +7774,7 @@
     },
     "raylib": {
       "baseline": "5.0",
-      "port-version": 1
+      "port-version": 2
     },
     "rbdl": {
       "baseline": "3.3.0",
@@ -8354,7 +8354,7 @@
     },
     "skia": {
       "baseline": "129",
-      "port-version": 0
+      "port-version": 1
     },
     "skyr-url": {
       "baseline": "1.13.0",
@@ -9171,10 +9171,6 @@
     "urdfdom-headers": {
       "baseline": "1.1.1",
       "port-version": 0
-    },
-    "urho3d": {
-      "baseline": "2021-03-01",
-      "port-version": 5
     },
     "uriparser": {
       "baseline": "0.9.8",
