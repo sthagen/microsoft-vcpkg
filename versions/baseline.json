@@ -234,7 +234,7 @@
     },
     "armadillo": {
       "baseline": "12.8.4",
-      "port-version": 1
+      "port-version": 2
     },
     "arpack-ng": {
       "baseline": "3.9.1",
@@ -457,8 +457,8 @@
       "port-version": 1
     },
     "azure-core-cpp": {
-      "baseline": "1.14.0",
-      "port-version": 1
+      "baseline": "1.14.1",
+      "port-version": 0
     },
     "azure-core-tracing-opentelemetry-cpp": {
       "baseline": "1.0.0-beta.4",
@@ -489,8 +489,8 @@
       "port-version": 4
     },
     "azure-messaging-eventhubs-cpp": {
-      "baseline": "1.0.0-beta.9",
-      "port-version": 2
+      "baseline": "1.0.0-beta.10",
+      "port-version": 0
     },
     "azure-security-attestation-cpp": {
       "baseline": "1.1.0",
@@ -565,7 +565,7 @@
       "port-version": 0
     },
     "basisu": {
-      "baseline": "1.16.4",
+      "baseline": "1.50.0",
       "port-version": 0
     },
     "bcg729": {
@@ -794,7 +794,7 @@
     },
     "boost-build": {
       "baseline": "1.86.0",
-      "port-version": 0
+      "port-version": 1
     },
     "boost-callable-traits": {
       "baseline": "1.86.0",
@@ -1457,7 +1457,7 @@
       "port-version": 6
     },
     "c-ares": {
-      "baseline": "1.34.1",
+      "baseline": "1.34.2",
       "port-version": 0
     },
     "c-dbg-macro": {
@@ -1481,7 +1481,7 @@
       "port-version": 0
     },
     "caf": {
-      "baseline": "1.0.1",
+      "baseline": "1.0.2",
       "port-version": 0
     },
     "cairo": {
@@ -2305,7 +2305,7 @@
       "port-version": 0
     },
     "directxmesh": {
-      "baseline": "2024-09-04",
+      "baseline": "2024-10-28",
       "port-version": 0
     },
     "directxsdk": {
@@ -2313,15 +2313,15 @@
       "port-version": 8
     },
     "directxtex": {
-      "baseline": "2024-09-04",
+      "baseline": "2024-10-28",
       "port-version": 0
     },
     "directxtk": {
-      "baseline": "2024-09-04",
+      "baseline": "2024-10-28",
       "port-version": 0
     },
     "directxtk12": {
-      "baseline": "2024-09-04",
+      "baseline": "2024-10-28",
       "port-version": 0
     },
     "dirent": {
@@ -2389,7 +2389,7 @@
       "port-version": 0
     },
     "dpp": {
-      "baseline": "10.0.34",
+      "baseline": "10.0.35",
       "port-version": 0
     },
     "draco": {
@@ -2741,8 +2741,8 @@
       "port-version": 0
     },
     "ffmpeg": {
-      "baseline": "7.0.2",
-      "port-version": 7
+      "baseline": "7.1",
+      "port-version": 0
     },
     "ffnvcodec": {
       "baseline": "12.2.72.0",
@@ -3234,7 +3234,7 @@
     },
     "gpgmm": {
       "baseline": "0.1.2",
-      "port-version": 0
+      "port-version": 1
     },
     "gppanel": {
       "baseline": "2020-05-20",
@@ -3413,8 +3413,8 @@
       "port-version": 0
     },
     "halide": {
-      "baseline": "17.0.1",
-      "port-version": 1
+      "baseline": "18.0.0",
+      "port-version": 0
     },
     "happly": {
       "baseline": "2021-03-19",
@@ -4882,7 +4882,7 @@
     },
     "libodb-sqlite": {
       "baseline": "2.4.0",
-      "port-version": 12
+      "port-version": 13
     },
     "libofx": {
       "baseline": "0.10.9",
@@ -5582,7 +5582,7 @@
     },
     "log4cxx": {
       "baseline": "1.2.0",
-      "port-version": 0
+      "port-version": 1
     },
     "loguru": {
       "baseline": "2.1.0",
@@ -6586,7 +6586,7 @@
     },
     "open62541": {
       "baseline": "1.3.14",
-      "port-version": 0
+      "port-version": 1
     },
     "open62541pp": {
       "baseline": "0.15.0",
@@ -7994,7 +7994,7 @@
     },
     "rsm-bsa": {
       "baseline": "4.1.0",
-      "port-version": 0
+      "port-version": 1
     },
     "rsm-mmio": {
       "baseline": "2.0.0",
@@ -8177,7 +8177,7 @@
       "port-version": 6
     },
     "sdl2": {
-      "baseline": "2.30.8",
+      "baseline": "2.30.9",
       "port-version": 0
     },
     "sdl2-gfx": {
@@ -8433,7 +8433,7 @@
       "port-version": 2
     },
     "so5extra": {
-      "baseline": "1.6.1",
+      "baseline": "1.6.2",
       "port-version": 0
     },
     "soapysdr": {
@@ -8441,7 +8441,7 @@
       "port-version": 0
     },
     "sobjectizer": {
-      "baseline": "5.8.2",
+      "baseline": "5.8.3",
       "port-version": 0
     },
     "soci": {
@@ -8789,7 +8789,7 @@
       "port-version": 0
     },
     "tbb": {
-      "baseline": "2021.13.0",
+      "baseline": "2022.0.0",
       "port-version": 0
     },
     "tcb-span": {
@@ -9257,7 +9257,7 @@
       "port-version": 1
     },
     "uvatlas": {
-      "baseline": "2024-09-04",
+      "baseline": "2024-10-29",
       "port-version": 0
     },
     "uvw": {
