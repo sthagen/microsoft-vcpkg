@@ -233,8 +233,8 @@
       "port-version": 0
     },
     "armadillo": {
-      "baseline": "12.8.4",
-      "port-version": 2
+      "baseline": "14.0.3",
+      "port-version": 0
     },
     "arpack-ng": {
       "baseline": "3.9.1",
@@ -557,7 +557,7 @@
       "port-version": 1
     },
     "baresip-libre": {
-      "baseline": "3.15.0",
+      "baseline": "3.17.0",
       "port-version": 0
     },
     "bark": {
@@ -2225,7 +2225,7 @@
       "port-version": 0
     },
     "daw-json-link": {
-      "baseline": "3.24.0",
+      "baseline": "3.29.2",
       "port-version": 0
     },
     "daw-utf-range": {
@@ -2721,7 +2721,7 @@
       "port-version": 1
     },
     "fbthrift": {
-      "baseline": "2024.10.28.00",
+      "baseline": "2024.11.04.00",
       "port-version": 0
     },
     "fcl": {
@@ -2773,7 +2773,7 @@
       "port-version": 0
     },
     "fizz": {
-      "baseline": "2024.10.28.00",
+      "baseline": "2024.11.04.00",
       "port-version": 0
     },
     "flagpp": {
@@ -2857,7 +2857,7 @@
       "port-version": 1
     },
     "folly": {
-      "baseline": "2024.10.28.00",
+      "baseline": "2024.11.04.00",
       "port-version": 0
     },
     "font-chef": {
@@ -3425,7 +3425,7 @@
       "port-version": 0
     },
     "harfbuzz": {
-      "baseline": "10.0.1",
+      "baseline": "10.1.0",
       "port-version": 0
     },
     "hash-library": {
@@ -3657,7 +3657,7 @@
       "port-version": 0
     },
     "igraph": {
-      "baseline": "0.10.13",
+      "baseline": "0.10.15",
       "port-version": 0
     },
     "iir1": {
@@ -4325,7 +4325,7 @@
       "port-version": 4
     },
     "libbson": {
-      "baseline": "1.28.1",
+      "baseline": "1.29.0",
       "port-version": 0
     },
     "libcaer": {
@@ -4806,7 +4806,7 @@
     },
     "libmodplug": {
       "baseline": "0.8.9.0",
-      "port-version": 13
+      "port-version": 14
     },
     "libmorton": {
       "baseline": "0.2.12",
@@ -5997,7 +5997,7 @@
       "port-version": 6
     },
     "modern-cpp-kafka": {
-      "baseline": "2023.03.07",
+      "baseline": "2024.07.03",
       "port-version": 0
     },
     "modp-base64": {
@@ -6005,7 +6005,7 @@
       "port-version": 2
     },
     "mongo-c-driver": {
-      "baseline": "1.28.1",
+      "baseline": "1.29.0",
       "port-version": 0
     },
     "mongo-cxx-driver": {
@@ -6113,7 +6113,7 @@
       "port-version": 0
     },
     "msgpack": {
-      "baseline": "6.1.1",
+      "baseline": "7.0.0",
       "port-version": 0
     },
     "msgpack-c": {
@@ -6177,7 +6177,7 @@
       "port-version": 7
     },
     "mvfst": {
-      "baseline": "2024.10.28.00",
+      "baseline": "2024.11.04.00",
       "port-version": 0
     },
     "mygui": {
@@ -6213,7 +6213,7 @@
       "port-version": 8
     },
     "nanoflann": {
-      "baseline": "1.6.1",
+      "baseline": "1.6.2",
       "port-version": 0
     },
     "nanogui": {
@@ -7217,7 +7217,7 @@
       "port-version": 0
     },
     "proxygen": {
-      "baseline": "2024.10.28.00",
+      "baseline": "2024.11.04.00",
       "port-version": 0
     },
     "psimd": {
@@ -7969,7 +7969,7 @@
       "port-version": 0
     },
     "robotraconteur": {
-      "baseline": "1.2.3",
+      "baseline": "1.2.4",
       "port-version": 0
     },
     "robotraconteur-companion": {
@@ -8133,7 +8133,7 @@
       "port-version": 0
     },
     "scnlib": {
-      "baseline": "3.0.1",
+      "baseline": "4.0.1",
       "port-version": 0
     },
     "scope-guard": {
@@ -8241,7 +8241,7 @@
       "port-version": 0
     },
     "sentry-native": {
-      "baseline": "0.7.11",
+      "baseline": "0.7.12",
       "port-version": 0
     },
     "septag-dmon": {
@@ -9033,7 +9033,7 @@
       "port-version": 0
     },
     "tmx": {
-      "baseline": "1.4.0",
+      "baseline": "1.10.0",
       "port-version": 0
     },
     "tmxlite": {
@@ -9541,7 +9541,7 @@
       "port-version": 5
     },
     "wangle": {
-      "baseline": "2024.10.28.00",
+      "baseline": "2024.11.04.00",
       "port-version": 0
     },
     "wasmedge": {
@@ -9617,7 +9617,7 @@
       "port-version": 0
     },
     "winreg": {
-      "baseline": "6.3.0",
+      "baseline": "6.3.2",
       "port-version": 0
     },
     "winsock2": {
@@ -9901,8 +9901,8 @@
       "port-version": 2
     },
     "zeroc-ice": {
-      "baseline": "3.7.9",
-      "port-version": 4
+      "baseline": "3.7.10",
+      "port-version": 0
     },
     "zeromq": {
       "baseline": "4.3.5",
@@ -9937,7 +9937,7 @@
       "port-version": 0
     },
     "zoe": {
-      "baseline": "3.2",
+      "baseline": "3.3",
       "port-version": 0
     },
     "zookeeper": {
