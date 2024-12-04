@@ -2037,7 +2037,7 @@
       "port-version": 0
     },
     "cpuid": {
-      "baseline": "0.6.4",
+      "baseline": "0.7.0",
       "port-version": 0
     },
     "cpuinfo": {
@@ -2285,7 +2285,7 @@
       "port-version": 0
     },
     "deniskovalchuk-libftp": {
-      "baseline": "1.3.0",
+      "baseline": "1.4.0",
       "port-version": 0
     },
     "detours": {
@@ -5481,8 +5481,8 @@
       "port-version": 0
     },
     "libxslt": {
-      "baseline": "1.1.37",
-      "port-version": 4
+      "baseline": "1.1.42",
+      "port-version": 0
     },
     "libxt": {
       "baseline": "1.3.0",
@@ -5701,8 +5701,8 @@
       "port-version": 1
     },
     "lv2": {
-      "baseline": "1.18.2",
-      "port-version": 1
+      "baseline": "1.18.10",
+      "port-version": 0
     },
     "lz4": {
       "baseline": "1.10.0",
@@ -5866,7 +5866,7 @@
     },
     "mdl-sdk": {
       "baseline": "2024.0.4",
-      "port-version": 0
+      "port-version": 1
     },
     "mdns": {
       "baseline": "1.4.3",
@@ -6789,7 +6789,7 @@
       "port-version": 0
     },
     "openxr-loader": {
-      "baseline": "1.0.31",
+      "baseline": "1.0.34",
       "port-version": 0
     },
     "optimus-cpp": {
@@ -7229,7 +7229,7 @@
       "port-version": 0
     },
     "protopuf": {
-      "baseline": "2.2.1",
+      "baseline": "3.0.0",
       "port-version": 0
     },
     "protozero": {
@@ -8174,7 +8174,7 @@
     },
     "scotch": {
       "baseline": "7.0.5",
-      "port-version": 0
+      "port-version": 1
     },
     "scottt-debugbreak": {
       "baseline": "1.0",
@@ -8325,8 +8325,8 @@
       "port-version": 0
     },
     "shader-slang": {
-      "baseline": "2024.14.6",
-      "port-version": 1
+      "baseline": "2024.15",
+      "port-version": 0
     },
     "shaderc": {
       "baseline": "2023.8",
@@ -9778,7 +9778,7 @@
     },
     "xcb": {
       "baseline": "1.14",
-      "port-version": 2
+      "port-version": 3
     },
     "xcb-image": {
       "baseline": "0.4.1",
