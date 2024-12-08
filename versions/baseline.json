@@ -25,7 +25,7 @@
       "port-version": 3
     },
     "ace": {
-      "baseline": "8.0.1",
+      "baseline": "8.0.2",
       "port-version": 0
     },
     "acl": {
@@ -382,7 +382,7 @@
     },
     "avro-cpp": {
       "baseline": "1.12.0",
-      "port-version": 0
+      "port-version": 2
     },
     "awlib": {
       "baseline": "2024-04-06",
@@ -694,7 +694,7 @@
     },
     "blas": {
       "baseline": "2023-04-14",
-      "port-version": 1
+      "port-version": 2
     },
     "blaze": {
       "baseline": "3.8.2",
@@ -1493,7 +1493,7 @@
       "port-version": 0
     },
     "calceph": {
-      "baseline": "4.0.1",
+      "baseline": "4.0.3",
       "port-version": 0
     },
     "camport3": {
@@ -2029,7 +2029,7 @@
       "port-version": 0
     },
     "cpr": {
-      "baseline": "1.11.0",
+      "baseline": "1.11.1",
       "port-version": 0
     },
     "cpu-features": {
@@ -2741,7 +2741,7 @@
       "port-version": 1
     },
     "fbthrift": {
-      "baseline": "2024.11.18.00",
+      "baseline": "2024.12.02.00",
       "port-version": 0
     },
     "fcl": {
@@ -2793,7 +2793,7 @@
       "port-version": 0
     },
     "fizz": {
-      "baseline": "2024.11.18.00",
+      "baseline": "2024.12.02.00",
       "port-version": 0
     },
     "flagpp": {
@@ -2877,7 +2877,7 @@
       "port-version": 1
     },
     "folly": {
-      "baseline": "2024.11.18.00",
+      "baseline": "2024.12.02.00",
       "port-version": 0
     },
     "font-chef": {
@@ -3225,7 +3225,7 @@
       "port-version": 0
     },
     "google-cloud-cpp": {
-      "baseline": "2.31.0",
+      "baseline": "2.32.0",
       "port-version": 0
     },
     "google-cloud-cpp-common": {
@@ -4566,7 +4566,7 @@
     },
     "libfreenect2": {
       "baseline": "0.2.1",
-      "port-version": 1
+      "port-version": 2
     },
     "libfs": {
       "baseline": "1.0.9",
@@ -6205,7 +6205,7 @@
       "port-version": 7
     },
     "mvfst": {
-      "baseline": "2024.11.18.00",
+      "baseline": "2024.12.02.00",
       "port-version": 0
     },
     "mygui": {
@@ -6214,7 +6214,7 @@
     },
     "mysql-connector-cpp": {
       "baseline": "9.1.0",
-      "port-version": 0
+      "port-version": 1
     },
     "nameof": {
       "baseline": "0.10.4",
@@ -6626,7 +6626,7 @@
     },
     "openblas": {
       "baseline": "0.3.28",
-      "port-version": 0
+      "port-version": 1
     },
     "opencascade": {
       "baseline": "7.8.1",
@@ -7013,7 +7013,7 @@
       "port-version": 2
     },
     "pipewire": {
-      "baseline": "1.2.6",
+      "baseline": "1.2.7",
       "port-version": 0
     },
     "pistache": {
@@ -7221,7 +7221,7 @@
       "port-version": 0
     },
     "protobuf": {
-      "baseline": "5.29.0",
+      "baseline": "5.29.1",
       "port-version": 0
     },
     "protobuf-c": {
@@ -7245,7 +7245,7 @@
       "port-version": 0
     },
     "proxygen": {
-      "baseline": "2024.11.18.00",
+      "baseline": "2024.12.02.00",
       "port-version": 0
     },
     "psimd": {
@@ -9589,7 +9589,7 @@
       "port-version": 6
     },
     "wangle": {
-      "baseline": "2024.11.18.00",
+      "baseline": "2024.12.02.00",
       "port-version": 0
     },
     "wasmedge": {
@@ -9613,7 +9613,7 @@
       "port-version": 1
     },
     "wcslib": {
-      "baseline": "8.2.1",
+      "baseline": "8.4",
       "port-version": 0
     },
     "websocketpp": {
