@@ -1,16 +1,14 @@
 {
-  "name": "kdsingleapplication",
-  "version": "1.1.0",
-  "port-version": 1,
-  "description": "KDSingleApplication is a helper class for single-instance policy applications.",
-  "homepage": "https://github.com/KDAB/KDSingleApplication",
+  "name": "kdreports",
+  "version": "2.3.0",
+  "description": "KD Reports is a Qt tool that lets you easily create printable reports by providing all of the necessary features for a variety of applications.",
+  "homepage": "https://github.com/KDAB/KDReports",
   "license": "MIT",
   "dependencies": [
     {
       "name": "qtbase",
       "default-features": false,
       "features": [
-        "network",
         "widgets"
       ]
     },

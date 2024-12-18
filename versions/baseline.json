@@ -2150,7 +2150,7 @@
     },
     "curlpp": {
       "baseline": "2018-06-15",
-      "port-version": 10
+      "port-version": 11
     },
     "cute-headers": {
       "baseline": "2019-09-20",
@@ -2266,7 +2266,7 @@
     },
     "dcmtk": {
       "baseline": "3.6.9",
-      "port-version": 0
+      "port-version": 1
     },
     "debug-assert": {
       "baseline": "1.3.4",
@@ -3310,7 +3310,7 @@
     },
     "gstreamer": {
       "baseline": "1.24.7",
-      "port-version": 1
+      "port-version": 2
     },
     "gtest": {
       "baseline": "1.15.2",
@@ -3357,8 +3357,8 @@
       "port-version": 0
     },
     "gumbo": {
-      "baseline": "0.10.1",
-      "port-version": 6
+      "baseline": "0.12.2",
+      "port-version": 0
     },
     "gz-cmake3": {
       "baseline": "3.4.1",
@@ -3948,13 +3948,21 @@
       "baseline": "2.1.0",
       "port-version": 1
     },
+    "kdreports": {
+      "baseline": "2.3.0",
+      "port-version": 0
+    },
     "kdsingleapplication": {
       "baseline": "1.1.0",
-      "port-version": 0
+      "port-version": 1
     },
     "kdsoap": {
       "baseline": "2.2.0",
       "port-version": 1
+    },
+    "kdstatemachineeditor": {
+      "baseline": "2.0.0",
+      "port-version": 0
     },
     "kealib": {
       "baseline": "1.6.0",
@@ -4445,7 +4453,7 @@
       "port-version": 0
     },
     "libdeflate": {
-      "baseline": "1.22",
+      "baseline": "1.23",
       "port-version": 0
     },
     "libdisasm": {
@@ -5238,7 +5246,7 @@
     },
     "libtorch": {
       "baseline": "2.1.2",
-      "port-version": 7
+      "port-version": 8
     },
     "libtorrent": {
       "baseline": "2.0.10",
@@ -6674,7 +6682,7 @@
     },
     "opencv4": {
       "baseline": "4.10.0",
-      "port-version": 1
+      "port-version": 2
     },
     "opendnp3": {
       "baseline": "3.1.1",
@@ -9209,7 +9217,7 @@
       "port-version": 0
     },
     "unicorn": {
-      "baseline": "2.0.1",
+      "baseline": "2.1.1",
       "port-version": 0
     },
     "unicorn-lib": {
@@ -9673,7 +9681,7 @@
       "port-version": 5
     },
     "winsparkle": {
-      "baseline": "0.8.1",
+      "baseline": "0.8.3",
       "port-version": 0
     },
     "wintoast": {
