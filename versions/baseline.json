@@ -3854,7 +3854,7 @@
     },
     "joltphysics": {
       "baseline": "5.2.0",
-      "port-version": 0
+      "port-version": 1
     },
     "josuttis-jthread": {
       "baseline": "2020-07-21",
@@ -3893,7 +3893,7 @@
       "port-version": 7
     },
     "jsoncons": {
-      "baseline": "1.0.0",
+      "baseline": "1.1.0",
       "port-version": 0
     },
     "jsoncpp": {
