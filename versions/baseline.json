@@ -2854,7 +2854,7 @@
     },
     "folly": {
       "baseline": "2025.01.13.00",
-      "port-version": 0
+      "port-version": 1
     },
     "font-chef": {
       "baseline": "1.1.0",
@@ -4449,7 +4449,7 @@
       "port-version": 0
     },
     "libdjinterop": {
-      "baseline": "0.22.1",
+      "baseline": "0.24.2",
       "port-version": 0
     },
     "libdmx": {
@@ -5685,7 +5685,7 @@
       "port-version": 1
     },
     "lunarg-vulkantools": {
-      "baseline": "1.3.296.0",
+      "baseline": "1.4.304.0",
       "port-version": 0
     },
     "lunasvg": {
@@ -6554,7 +6554,7 @@
     },
     "octave": {
       "baseline": "9.3.0",
-      "port-version": 0
+      "port-version": 1
     },
     "octomap": {
       "baseline": "1.10.0",
@@ -8645,19 +8645,19 @@
       "port-version": 4
     },
     "spirv-cross": {
-      "baseline": "1.3.296.0",
+      "baseline": "1.4.304.0",
       "port-version": 0
     },
     "spirv-headers": {
-      "baseline": "1.3.296.0",
-      "port-version": 1
+      "baseline": "1.4.304.0",
+      "port-version": 0
     },
     "spirv-reflect": {
-      "baseline": "1.3.296.0",
+      "baseline": "1.4.304.0",
       "port-version": 0
     },
     "spirv-tools": {
-      "baseline": "1.3.296.0",
+      "baseline": "1.4.304.0",
       "port-version": 0
     },
     "spout2": {
@@ -9406,7 +9406,7 @@
     },
     "vcpkg-make": {
       "baseline": "2025-01-13",
-      "port-version": 0
+      "port-version": 1
     },
     "vcpkg-msbuild": {
       "baseline": "2023-08-08",
@@ -9517,7 +9517,7 @@
       "port-version": 0
     },
     "volk": {
-      "baseline": "1.3.296",
+      "baseline": "1.4.304",
       "port-version": 0
     },
     "vowpal-wabbit": {
@@ -9542,7 +9542,7 @@
     },
     "vst3sdk": {
       "baseline": "v3.7.12_build_20",
-      "port-version": 0
+      "port-version": 1
     },
     "vtk": {
       "baseline": "9.3.0-pv5.12.1",
@@ -9561,11 +9561,11 @@
       "port-version": 0
     },
     "vulkan-extensionlayer": {
-      "baseline": "1.3.296.0",
+      "baseline": "1.4.304.0",
       "port-version": 0
     },
     "vulkan-headers": {
-      "baseline": "1.3.296.0",
+      "baseline": "1.4.304.0",
       "port-version": 0
     },
     "vulkan-hpp": {
@@ -9573,7 +9573,7 @@
       "port-version": 0
     },
     "vulkan-loader": {
-      "baseline": "1.3.296.0",
+      "baseline": "1.4.304.0",
       "port-version": 0
     },
     "vulkan-memory-allocator": {
@@ -9585,19 +9585,19 @@
       "port-version": 0
     },
     "vulkan-sdk-components": {
-      "baseline": "1.3.296.0",
+      "baseline": "1.4.304.0",
       "port-version": 0
     },
     "vulkan-tools": {
-      "baseline": "1.3.296.0",
+      "baseline": "1.4.304.0",
       "port-version": 0
     },
     "vulkan-utility-libraries": {
-      "baseline": "1.3.296.0",
+      "baseline": "1.4.304.0",
       "port-version": 0
     },
     "vulkan-validationlayers": {
-      "baseline": "1.3.296.0",
+      "baseline": "1.4.304.0",
       "port-version": 0
     },
     "vvenc": {
