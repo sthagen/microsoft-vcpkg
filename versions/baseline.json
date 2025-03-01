@@ -38,7 +38,7 @@
     },
     "ada-url": {
       "baseline": "3.1.1",
-      "port-version": 0
+      "port-version": 1
     },
     "ade": {
       "baseline": "0.1.2e",
@@ -105,7 +105,7 @@
       "port-version": 0
     },
     "amd-amf": {
-      "baseline": "1.4.35",
+      "baseline": "1.4.36",
       "port-version": 0
     },
     "ampl-asl": {
@@ -1969,7 +1969,7 @@
       "port-version": 0
     },
     "cppmicroservices": {
-      "baseline": "3.8.4",
+      "baseline": "3.8.6",
       "port-version": 0
     },
     "cppp-reiconv": {
@@ -3557,7 +3557,7 @@
       "port-version": 1
     },
     "highfive": {
-      "baseline": "2.10.0",
+      "baseline": "2.10.1",
       "port-version": 0
     },
     "highs": {
@@ -3581,7 +3581,7 @@
       "port-version": 0
     },
     "hlslpp": {
-      "baseline": "3.5.3",
+      "baseline": "3.6",
       "port-version": 0
     },
     "hnswlib": {
@@ -6314,7 +6314,7 @@
     },
     "nanopb": {
       "baseline": "0.4.9",
-      "port-version": 0
+      "port-version": 1
     },
     "nanoprintf": {
       "baseline": "0.5.3",
@@ -6705,7 +6705,7 @@
       "port-version": 3
     },
     "opencsg": {
-      "baseline": "1.6.0",
+      "baseline": "1.7.0",
       "port-version": 0
     },
     "openctm": {
@@ -9961,7 +9961,7 @@
       "port-version": 0
     },
     "xbyak": {
-      "baseline": "7.24",
+      "baseline": "7.24.1",
       "port-version": 0
     },
     "xcb": {
