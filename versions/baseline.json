@@ -289,7 +289,7 @@
       "port-version": 1
     },
     "asock": {
-      "baseline": "1.0.6",
+      "baseline": "1.0.7",
       "port-version": 0
     },
     "assimp": {
@@ -2517,7 +2517,7 @@
       "port-version": 0
     },
     "ecal": {
-      "baseline": "5.13.2",
+      "baseline": "5.13.3",
       "port-version": 0
     },
     "ecm": {
@@ -3123,6 +3123,10 @@
     "gflags": {
       "baseline": "2.2.2",
       "port-version": 9
+    },
+    "ggml": {
+      "baseline": "2025-02-12",
+      "port-version": 0
     },
     "ghc-filesystem": {
       "baseline": "1.5.14",
@@ -5614,6 +5618,10 @@
     },
     "live555": {
       "baseline": "2024-11-28",
+      "port-version": 0
+    },
+    "llama-cpp": {
+      "baseline": "4743",
       "port-version": 0
     },
     "llfio": {
@@ -9933,7 +9941,7 @@
       "port-version": 3
     },
     "workflow": {
-      "baseline": "0.10.9",
+      "baseline": "0.11.8",
       "port-version": 0
     },
     "wpilib": {
