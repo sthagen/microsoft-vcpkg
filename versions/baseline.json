@@ -37,7 +37,7 @@
       "port-version": 17
     },
     "ada-url": {
-      "baseline": "3.1.3",
+      "baseline": "3.2.1",
       "port-version": 0
     },
     "ade": {
@@ -354,6 +354,10 @@
     },
     "aubio": {
       "baseline": "2024-01-03",
+      "port-version": 0
+    },
+    "audioengine": {
+      "baseline": "1.1",
       "port-version": 0
     },
     "audiofile": {
@@ -1761,7 +1765,7 @@
       "port-version": 3
     },
     "cnats": {
-      "baseline": "3.10.0",
+      "baseline": "3.10.1",
       "port-version": 0
     },
     "cnl": {
@@ -1925,7 +1929,7 @@
       "port-version": 0
     },
     "cpp-pinyin": {
-      "baseline": "1.0.1",
+      "baseline": "1.0.2",
       "port-version": 0
     },
     "cpp-redis": {
@@ -2741,7 +2745,7 @@
       "port-version": 1
     },
     "fbthrift": {
-      "baseline": "2025.03.03.00",
+      "baseline": "2025.03.10.00",
       "port-version": 0
     },
     "fcl": {
@@ -2793,7 +2797,7 @@
       "port-version": 0
     },
     "fizz": {
-      "baseline": "2025.03.03.00",
+      "baseline": "2025.03.10.00",
       "port-version": 0
     },
     "flagpp": {
@@ -2881,7 +2885,7 @@
       "port-version": 1
     },
     "folly": {
-      "baseline": "2025.03.03.00",
+      "baseline": "2025.03.10.00",
       "port-version": 0
     },
     "font-chef": {
@@ -3138,7 +3142,7 @@
     },
     "giflib": {
       "baseline": "5.2.2",
-      "port-version": 0
+      "port-version": 1
     },
     "ginkgo": {
       "baseline": "1.9.0",
@@ -3850,7 +3854,7 @@
     },
     "jasper": {
       "baseline": "4.2.4",
-      "port-version": 1
+      "port-version": 2
     },
     "jbig2dec": {
       "baseline": "0.20",
@@ -3866,7 +3870,7 @@
     },
     "jhasse-poly2tri": {
       "baseline": "2023-12-27",
-      "port-version": 1
+      "port-version": 2
     },
     "jigson": {
       "baseline": "0.1.3",
@@ -5977,7 +5981,7 @@
       "port-version": 6
     },
     "meshoptimizer": {
-      "baseline": "0.22",
+      "baseline": "0.23",
       "port-version": 0
     },
     "metis": {
@@ -6293,7 +6297,7 @@
       "port-version": 7
     },
     "mvfst": {
-      "baseline": "2025.03.03.00",
+      "baseline": "2025.03.10.00",
       "port-version": 0
     },
     "mygui": {
@@ -7365,7 +7369,7 @@
       "port-version": 0
     },
     "proxygen": {
-      "baseline": "2025.03.03.00",
+      "baseline": "2025.03.10.00",
       "port-version": 0
     },
     "psimd": {
@@ -9809,7 +9813,7 @@
       "port-version": 0
     },
     "wangle": {
-      "baseline": "2025.03.03.00",
+      "baseline": "2025.03.10.00",
       "port-version": 0
     },
     "wasmedge": {
@@ -10005,7 +10009,7 @@
       "port-version": 0
     },
     "xbyak": {
-      "baseline": "7.24.1",
+      "baseline": "7.24.2",
       "port-version": 0
     },
     "xcb": {
