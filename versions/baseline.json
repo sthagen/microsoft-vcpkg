@@ -1905,7 +1905,7 @@
       "port-version": 0
     },
     "cpp-httplib": {
-      "baseline": "0.19.0",
+      "baseline": "0.20.0",
       "port-version": 0
     },
     "cpp-ipc": {
@@ -2438,7 +2438,7 @@
     },
     "duckdb": {
       "baseline": "1.2.1",
-      "port-version": 0
+      "port-version": 1
     },
     "duckx": {
       "baseline": "1.2.2",
@@ -2766,7 +2766,7 @@
     },
     "ffmpeg": {
       "baseline": "7.1.1",
-      "port-version": 0
+      "port-version": 1
     },
     "ffnvcodec": {
       "baseline": "12.2.72.0",
@@ -2833,7 +2833,7 @@
       "port-version": 0
     },
     "flatbuffers": {
-      "baseline": "25.1.21",
+      "baseline": "25.2.10",
       "port-version": 0
     },
     "flatbush": {
@@ -2845,7 +2845,7 @@
       "port-version": 0
     },
     "flecs": {
-      "baseline": "4.0.4",
+      "baseline": "4.0.5",
       "port-version": 0
     },
     "flint": {
@@ -3245,7 +3245,7 @@
       "port-version": 9
     },
     "godot-cpp": {
-      "baseline": "4.3",
+      "baseline": "4.4",
       "port-version": 0
     },
     "google-cloud-cpp": {
@@ -3266,7 +3266,7 @@
     },
     "gperf": {
       "baseline": "3.1",
-      "port-version": 6
+      "port-version": 7
     },
     "gperftools": {
       "baseline": "2.16",
@@ -3313,7 +3313,7 @@
       "port-version": 0
     },
     "grpc": {
-      "baseline": "1.70.1",
+      "baseline": "1.71.0",
       "port-version": 0
     },
     "grppi": {
@@ -3562,7 +3562,7 @@
     },
     "hello-imgui": {
       "baseline": "1.6.0",
-      "port-version": 2
+      "port-version": 3
     },
     "hexl": {
       "baseline": "1.2.5",
@@ -3721,8 +3721,8 @@
       "port-version": 0
     },
     "imgui": {
-      "baseline": "1.91.8",
-      "port-version": 4
+      "baseline": "1.91.9",
+      "port-version": 0
     },
     "imgui-node-editor": {
       "baseline": "0.9.3",
@@ -4317,7 +4317,7 @@
       "port-version": 0
     },
     "lib3mf": {
-      "baseline": "2.3.2",
+      "baseline": "2.4.1",
       "port-version": 0
     },
     "libaaplus": {
@@ -4413,8 +4413,8 @@
       "port-version": 0
     },
     "libcbor": {
-      "baseline": "0.11.0",
-      "port-version": 1
+      "baseline": "0.12.0",
+      "port-version": 0
     },
     "libcds": {
       "baseline": "2.3.3",
@@ -5437,8 +5437,8 @@
       "port-version": 0
     },
     "libxcrypt": {
-      "baseline": "4.4.36",
-      "port-version": 2
+      "baseline": "4.4.38",
+      "port-version": 0
     },
     "libxcvt": {
       "baseline": "0.1.2",
@@ -5766,7 +5766,7 @@
     },
     "lunasvg": {
       "baseline": "3.2.1",
-      "port-version": 0
+      "port-version": 1
     },
     "luv": {
       "baseline": "1.44.2",
@@ -7202,10 +7202,10 @@
     },
     "plutosvg": {
       "baseline": "0.0.6",
-      "port-version": 0
+      "port-version": 1
     },
     "plutovg": {
-      "baseline": "0.0.13",
+      "baseline": "1.0.0",
       "port-version": 0
     },
     "pmdk": {
@@ -7337,8 +7337,8 @@
       "port-version": 0
     },
     "projectm-eval": {
-      "baseline": "1.0.0",
-      "port-version": 1
+      "baseline": "1.0.1",
+      "port-version": 0
     },
     "prometheus-cpp": {
       "baseline": "1.3.0",
@@ -8362,7 +8362,7 @@
     },
     "sdl2": {
       "baseline": "2.32.2",
-      "port-version": 0
+      "port-version": 1
     },
     "sdl2-gfx": {
       "baseline": "1.0.4",
@@ -9130,7 +9130,7 @@
     },
     "tgui": {
       "baseline": "1.8.0",
-      "port-version": 0
+      "port-version": 1
     },
     "think-cell-range": {
       "baseline": "2023.1",
@@ -9261,7 +9261,7 @@
       "port-version": 10
     },
     "tinyxml2": {
-      "baseline": "10.1.0",
+      "baseline": "11.0.0",
       "port-version": 0
     },
     "tl-expected": {
