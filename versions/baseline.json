@@ -3269,8 +3269,8 @@
       "port-version": 0
     },
     "gobject-introspection": {
-      "baseline": "1.72.0",
-      "port-version": 9
+      "baseline": "1.82.0",
+      "port-version": 0
     },
     "godot-cpp": {
       "baseline": "4.4",
@@ -3867,6 +3867,10 @@
     "itk": {
       "baseline": "5.4.0",
       "port-version": 2
+    },
+    "itlib": {
+      "baseline": "1.11.7",
+      "port-version": 0
     },
     "itpp": {
       "baseline": "4.3.1",
@@ -4477,8 +4481,8 @@
       "port-version": 0
     },
     "libcopp": {
-      "baseline": "2.2.0",
-      "port-version": 1
+      "baseline": "2.3.1",
+      "port-version": 0
     },
     "libcoro": {
       "baseline": "0.14.1",
@@ -6738,7 +6742,7 @@
     },
     "omniorb": {
       "baseline": "4.3.0",
-      "port-version": 3
+      "port-version": 4
     },
     "ompl": {
       "baseline": "1.6.0",
@@ -6913,7 +6917,7 @@
       "port-version": 4
     },
     "openssl": {
-      "baseline": "3.4.1",
+      "baseline": "3.5.0",
       "port-version": 0
     },
     "opensubdiv": {
@@ -7002,7 +7006,7 @@
     },
     "osgearth": {
       "baseline": "3.7.2",
-      "port-version": 0
+      "port-version": 1
     },
     "osmanip": {
       "baseline": "4.6.1",
@@ -7497,7 +7501,7 @@
       "port-version": 7
     },
     "python3": {
-      "baseline": "3.11.11",
+      "baseline": "3.12.9",
       "port-version": 0
     },
     "qca": {
@@ -9105,7 +9109,7 @@
       "port-version": 2
     },
     "systemc": {
-      "baseline": "2.3.4",
+      "baseline": "3.0.1",
       "port-version": 0
     },
     "tabulate": {
@@ -9677,7 +9681,7 @@
       "port-version": 0
     },
     "vcpkg-get-python-packages": {
-      "baseline": "2024-09-29",
+      "baseline": "2025-04-05",
       "port-version": 0
     },
     "vcpkg-gfortran": {
