@@ -2469,8 +2469,8 @@
       "port-version": 1
     },
     "duilib": {
-      "baseline": "2019-04-28",
-      "port-version": 6
+      "baseline": "2024-12-23",
+      "port-version": 0
     },
     "dukglue": {
       "baseline": "2022-11-08",
@@ -3617,7 +3617,7 @@
       "port-version": 0
     },
     "hfsm2": {
-      "baseline": "2.6.1",
+      "baseline": "2.7.0",
       "port-version": 0
     },
     "hidapi": {
@@ -6533,7 +6533,7 @@
       "port-version": 2
     },
     "nghttp3": {
-      "baseline": "1.8.0",
+      "baseline": "1.9.0",
       "port-version": 0
     },
     "ngspice": {
@@ -6921,8 +6921,8 @@
       "port-version": 15
     },
     "openscap": {
-      "baseline": "1.4.0",
-      "port-version": 1
+      "baseline": "1.4.2",
+      "port-version": 0
     },
     "openslide": {
       "baseline": "3.4.1",
@@ -7973,7 +7973,7 @@
       "port-version": 9
     },
     "quill": {
-      "baseline": "9.0.1",
+      "baseline": "9.0.2",
       "port-version": 0
     },
     "quirc": {
