@@ -5073,7 +5073,7 @@
       "port-version": 1
     },
     "libosmium": {
-      "baseline": "2.21.0",
+      "baseline": "2.22.0",
       "port-version": 0
     },
     "libosmscout": {
@@ -5306,7 +5306,7 @@
     },
     "libsrtp": {
       "baseline": "2.7.0",
-      "port-version": 0
+      "port-version": 1
     },
     "libssh": {
       "baseline": "0.10.6",
@@ -5821,7 +5821,7 @@
       "port-version": 1
     },
     "luau": {
-      "baseline": "0.669",
+      "baseline": "0.670",
       "port-version": 0
     },
     "luminoengine": {
@@ -8353,7 +8353,7 @@
       "port-version": 0
     },
     "safetyhook": {
-      "baseline": "0.6.5",
+      "baseline": "0.6.6",
       "port-version": 0
     },
     "sail": {
@@ -9566,7 +9566,7 @@
     },
     "unqlite": {
       "baseline": "1.1.9",
-      "port-version": 2
+      "port-version": 3
     },
     "unrar": {
       "baseline": "7.0.7",
