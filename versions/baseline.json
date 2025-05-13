@@ -592,6 +592,10 @@
       "baseline": "0.3.0",
       "port-version": 0
     },
+    "barkeep": {
+      "baseline": "0.1.5",
+      "port-version": 0
+    },
     "basisu": {
       "baseline": "1.50.0",
       "port-version": 0
@@ -621,7 +625,7 @@
       "port-version": 0
     },
     "benchmark": {
-      "baseline": "1.9.2",
+      "baseline": "1.9.3",
       "port-version": 0
     },
     "bento4": {
@@ -3009,7 +3013,7 @@
       "port-version": 6
     },
     "ftxui": {
-      "baseline": "6.1.8",
+      "baseline": "6.1.9",
       "port-version": 0
     },
     "function2": {
@@ -3428,6 +3432,10 @@
       "baseline": "2.11.2",
       "port-version": 0
     },
+    "gul17": {
+      "baseline": "25.4.1",
+      "port-version": 0
+    },
     "gumbo": {
       "baseline": "0.12.3",
       "port-version": 0
@@ -3589,8 +3597,8 @@
       "port-version": 2
     },
     "hdf5": {
-      "baseline": "1.14.4.3",
-      "port-version": 4
+      "baseline": "1.14.6",
+      "port-version": 0
     },
     "hdr-histogram": {
       "baseline": "0.11.8",
@@ -4561,7 +4569,7 @@
       "port-version": 0
     },
     "libdeflate": {
-      "baseline": "1.23",
+      "baseline": "1.24",
       "port-version": 0
     },
     "libdicom": {
@@ -5849,7 +5857,7 @@
       "port-version": 1
     },
     "luau": {
-      "baseline": "0.672",
+      "baseline": "0.673",
       "port-version": 0
     },
     "luminoengine": {
@@ -5929,7 +5937,7 @@
       "port-version": 13
     },
     "mailio": {
-      "baseline": "0.24.0",
+      "baseline": "0.25.1",
       "port-version": 0
     },
     "makeid": {
@@ -8682,7 +8690,7 @@
     },
     "simonbrunel-qtpromise": {
       "baseline": "0.7.0",
-      "port-version": 0
+      "port-version": 1
     },
     "simple-fft": {
       "baseline": "2020-06-14",
@@ -8869,7 +8877,7 @@
       "port-version": 3
     },
     "spdlog": {
-      "baseline": "1.15.2",
+      "baseline": "1.15.3",
       "port-version": 0
     },
     "spectra": {
