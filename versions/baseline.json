@@ -18,7 +18,7 @@
     },
     "abseil": {
       "baseline": "20250127.1",
-      "port-version": 0
+      "port-version": 1
     },
     "absent": {
       "baseline": "0.3.1",
@@ -173,8 +173,8 @@
       "port-version": 0
     },
     "apr": {
-      "baseline": "1.7.5",
-      "port-version": 2
+      "baseline": "1.7.6",
+      "port-version": 0
     },
     "apr-util": {
       "baseline": "1.6.3",
@@ -257,7 +257,7 @@
       "port-version": 8
     },
     "arrow": {
-      "baseline": "19.0.1",
+      "baseline": "20.0.0",
       "port-version": 0
     },
     "arrow-adbc": {
@@ -1780,6 +1780,10 @@
       "baseline": "0.31.1",
       "port-version": 0
     },
+    "cmark-gfm": {
+      "baseline": "0.29.0.13",
+      "port-version": 0
+    },
     "cminpack": {
       "baseline": "1.3.8",
       "port-version": 4
@@ -2746,7 +2750,7 @@
     },
     "fastdds": {
       "baseline": "3.2.2",
-      "port-version": 0
+      "port-version": 1
     },
     "fastfeat": {
       "baseline": "391d5e9",
@@ -2941,8 +2945,8 @@
       "port-version": 0
     },
     "foonathan-memory": {
-      "baseline": "0.7.3",
-      "port-version": 2
+      "baseline": "0.7.4",
+      "port-version": 0
     },
     "forge": {
       "baseline": "1.0.8",
@@ -3386,7 +3390,7 @@
     },
     "gstreamer": {
       "baseline": "1.24.12",
-      "port-version": 0
+      "port-version": 1
     },
     "gtest": {
       "baseline": "1.17.0",
@@ -3853,7 +3857,7 @@
       "port-version": 6
     },
     "intrusive-shared-ptr": {
-      "baseline": "1.7",
+      "baseline": "1.9",
       "port-version": 0
     },
     "io2d": {
@@ -4566,7 +4570,7 @@
     },
     "libde265": {
       "baseline": "1.0.16",
-      "port-version": 0
+      "port-version": 1
     },
     "libdeflate": {
       "baseline": "1.24",
@@ -4978,7 +4982,7 @@
     },
     "libmodplug": {
       "baseline": "0.8.9.0",
-      "port-version": 14
+      "port-version": 15
     },
     "libmorton": {
       "baseline": "0.2.12",
@@ -5398,7 +5402,7 @@
     },
     "libtorch": {
       "baseline": "2.1.2",
-      "port-version": 11
+      "port-version": 12
     },
     "libtorrent": {
       "baseline": "2.0.11",
@@ -5598,7 +5602,7 @@
     },
     "libxlsxwriter": {
       "baseline": "1.2.2",
-      "port-version": 0
+      "port-version": 1
     },
     "libxml2": {
       "baseline": "2.13.5",
@@ -6465,7 +6469,7 @@
       "port-version": 5
     },
     "nanojsonc": {
-      "baseline": "1.1.0",
+      "baseline": "1.2.0",
       "port-version": 0
     },
     "nanomsg": {
@@ -6514,7 +6518,7 @@
     },
     "ncurses": {
       "baseline": "6.4",
-      "port-version": 2
+      "port-version": 3
     },
     "ndis-driver-library": {
       "baseline": "1.2.0",
@@ -6526,7 +6530,7 @@
     },
     "ned14-internal-quickcpplib": {
       "baseline": "2023-11-22",
-      "port-version": 0
+      "port-version": 1
     },
     "neon2sse": {
       "baseline": "2024-11-24",
@@ -7141,7 +7145,7 @@
       "port-version": 9
     },
     "pcapplusplus": {
-      "baseline": "24.9",
+      "baseline": "25.5",
       "port-version": 0
     },
     "pcg": {
@@ -7313,11 +7317,11 @@
       "port-version": 5
     },
     "plutosvg": {
-      "baseline": "0.0.6",
-      "port-version": 1
+      "baseline": "0.0.7",
+      "port-version": 0
     },
     "plutovg": {
-      "baseline": "1.0.0",
+      "baseline": "1.1.0",
       "port-version": 0
     },
     "pmdk": {
@@ -8065,7 +8069,7 @@
       "port-version": 0
     },
     "rapidhash": {
-      "baseline": "1.0",
+      "baseline": "2.0",
       "port-version": 0
     },
     "rapidjson": {
@@ -8190,7 +8194,7 @@
     },
     "rerun-sdk": {
       "baseline": "0.22.1",
-      "port-version": 0
+      "port-version": 1
     },
     "rest-rpc": {
       "baseline": "0.12",
@@ -8538,7 +8542,7 @@
     },
     "sdl3-ttf": {
       "baseline": "3.2.2",
-      "port-version": 0
+      "port-version": 1
     },
     "seacas": {
       "baseline": "2022-11-22",
@@ -8565,7 +8569,7 @@
       "port-version": 1
     },
     "sentry-native": {
-      "baseline": "0.8.4",
+      "baseline": "0.8.5",
       "port-version": 0
     },
     "septag-dmon": {
@@ -10046,7 +10050,7 @@
     },
     "wildmidi": {
       "baseline": "0.4.6",
-      "port-version": 0
+      "port-version": 1
     },
     "wincrypt": {
       "baseline": "0.0",
@@ -10345,7 +10349,7 @@
       "port-version": 0
     },
     "yyjson": {
-      "baseline": "0.11.0",
+      "baseline": "0.11.1",
       "port-version": 0
     },
     "z3": {
