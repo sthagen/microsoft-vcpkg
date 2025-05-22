@@ -1509,7 +1509,7 @@
       "port-version": 0
     },
     "cachelib": {
-      "baseline": "2025.05.12.00",
+      "baseline": "2025.05.19.00",
       "port-version": 0
     },
     "caf": {
@@ -2153,7 +2153,7 @@
       "port-version": 2
     },
     "ctre": {
-      "baseline": "3.9.0",
+      "baseline": "3.10.0",
       "port-version": 0
     },
     "ctstraffic": {
@@ -2785,7 +2785,7 @@
       "port-version": 1
     },
     "fbthrift": {
-      "baseline": "2025.05.12.00",
+      "baseline": "2025.05.19.00",
       "port-version": 0
     },
     "fcl": {
@@ -2837,7 +2837,7 @@
       "port-version": 0
     },
     "fizz": {
-      "baseline": "2025.05.12.00",
+      "baseline": "2025.05.19.00",
       "port-version": 0
     },
     "flagpp": {
@@ -2925,7 +2925,7 @@
       "port-version": 1
     },
     "folly": {
-      "baseline": "2025.05.12.00",
+      "baseline": "2025.05.19.00",
       "port-version": 0
     },
     "font-chef": {
@@ -3005,7 +3005,7 @@
       "port-version": 0
     },
     "frugally-deep": {
-      "baseline": "0.18.1",
+      "baseline": "0.18.2",
       "port-version": 0
     },
     "fruit": {
@@ -3233,7 +3233,7 @@
       "port-version": 2
     },
     "glib": {
-      "baseline": "2.83.4",
+      "baseline": "2.84.1",
       "port-version": 0
     },
     "glib-networking": {
@@ -5510,7 +5510,7 @@
     },
     "libvpx": {
       "baseline": "1.13.1",
-      "port-version": 4
+      "port-version": 5
     },
     "libwandio": {
       "baseline": "4.2.1",
@@ -5605,8 +5605,8 @@
       "port-version": 1
     },
     "libxml2": {
-      "baseline": "2.13.5",
-      "port-version": 2
+      "baseline": "2.13.8",
+      "port-version": 0
     },
     "libxmlmm": {
       "baseline": "0.6.0",
@@ -5873,8 +5873,8 @@
       "port-version": 0
     },
     "lunasvg": {
-      "baseline": "3.2.1",
-      "port-version": 1
+      "baseline": "3.3.0",
+      "port-version": 0
     },
     "luv": {
       "baseline": "1.44.2",
@@ -6241,7 +6241,7 @@
       "port-version": 0
     },
     "mongoose": {
-      "baseline": "7.17",
+      "baseline": "7.18",
       "port-version": 0
     },
     "monkeys-audio": {
@@ -6413,7 +6413,7 @@
       "port-version": 7
     },
     "mvfst": {
-      "baseline": "2025.05.12.00",
+      "baseline": "2025.05.19.00",
       "port-version": 0
     },
     "mygui": {
@@ -7489,7 +7489,7 @@
       "port-version": 0
     },
     "proxygen": {
-      "baseline": "2025.05.12.00",
+      "baseline": "2025.05.19.00",
       "port-version": 0
     },
     "psimd": {
@@ -7814,7 +7814,7 @@
     },
     "qtbase": {
       "baseline": "6.8.3",
-      "port-version": 1
+      "port-version": 2
     },
     "qtcharts": {
       "baseline": "6.8.3",
@@ -8269,7 +8269,7 @@
       "port-version": 2
     },
     "roaring": {
-      "baseline": "4.3.1",
+      "baseline": "4.3.2",
       "port-version": 0
     },
     "robin-hood-hashing": {
@@ -8693,7 +8693,7 @@
       "port-version": 0
     },
     "simdutf": {
-      "baseline": "7.0.0",
+      "baseline": "7.1.0",
       "port-version": 0
     },
     "simonbrunel-qtpromise": {
@@ -8961,8 +8961,8 @@
       "port-version": 0
     },
     "sqlpp11": {
-      "baseline": "0.64",
-      "port-version": 3
+      "baseline": "0.65",
+      "port-version": 0
     },
     "sqlpp11-connector-mysql": {
       "baseline": "0.61",
@@ -9777,8 +9777,8 @@
       "port-version": 0
     },
     "vcpkg-qmake": {
-      "baseline": "2023-03-22",
-      "port-version": 3
+      "baseline": "2025-05-19",
+      "port-version": 0
     },
     "vcpkg-tool-bazel": {
       "baseline": "5.2.0",
@@ -9981,7 +9981,7 @@
       "port-version": 0
     },
     "wangle": {
-      "baseline": "2025.05.12.00",
+      "baseline": "2025.05.19.00",
       "port-version": 0
     },
     "wasmedge": {
@@ -10101,7 +10101,7 @@
       "port-version": 0
     },
     "wolfmqtt": {
-      "baseline": "1.19.0",
+      "baseline": "1.20.0",
       "port-version": 0
     },
     "wolfssl": {
@@ -10109,7 +10109,7 @@
       "port-version": 0
     },
     "wolftpm": {
-      "baseline": "3.8.0",
+      "baseline": "3.9.1",
       "port-version": 0
     },
     "wordnet": {
