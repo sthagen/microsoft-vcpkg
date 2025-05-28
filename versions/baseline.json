@@ -720,6 +720,10 @@
       "baseline": "2025-03-08",
       "port-version": 0
     },
+    "blickfeld-qb2": {
+      "baseline": "2.8.3",
+      "port-version": 0
+    },
     "blingfire": {
       "baseline": "0.1.8.1",
       "port-version": 1
@@ -1518,7 +1522,7 @@
     },
     "cairo": {
       "baseline": "1.18.2",
-      "port-version": 1
+      "port-version": 2
     },
     "cairomm": {
       "baseline": "1.18.0",
@@ -2217,7 +2221,7 @@
       "port-version": 0
     },
     "cxxopts": {
-      "baseline": "3.2.1",
+      "baseline": "3.3.1",
       "port-version": 0
     },
     "cyclonedds": {
@@ -3217,7 +3221,7 @@
       "port-version": 0
     },
     "glaze": {
-      "baseline": "5.2.1",
+      "baseline": "5.3.0",
       "port-version": 0
     },
     "glbinding": {
@@ -3237,7 +3241,7 @@
       "port-version": 2
     },
     "glib": {
-      "baseline": "2.84.1",
+      "baseline": "2.84.2",
       "port-version": 0
     },
     "glib-networking": {
@@ -3381,7 +3385,7 @@
       "port-version": 1
     },
     "gsl-lite": {
-      "baseline": "0.43.0",
+      "baseline": "1.0.1",
       "port-version": 0
     },
     "gsoap": {
@@ -3862,6 +3866,10 @@
     },
     "intrusive-shared-ptr": {
       "baseline": "1.9",
+      "port-version": 0
+    },
+    "intx": {
+      "baseline": "0.13.0",
       "port-version": 0
     },
     "io2d": {
@@ -4453,7 +4461,7 @@
       "port-version": 0
     },
     "libassuan": {
-      "baseline": "3.0.1",
+      "baseline": "3.0.2",
       "port-version": 0
     },
     "libatomic-ops": {
@@ -6209,7 +6217,7 @@
       "port-version": 0
     },
     "mlpack": {
-      "baseline": "4.6.1",
+      "baseline": "4.6.2",
       "port-version": 0
     },
     "mman": {
@@ -6801,11 +6809,11 @@
       "port-version": 4
     },
     "ompl": {
-      "baseline": "1.6.0",
-      "port-version": 4
+      "baseline": "1.7.0",
+      "port-version": 0
     },
     "omplapp": {
-      "baseline": "1.6.0",
+      "baseline": "1.7.0",
       "port-version": 0
     },
     "onednn": {
@@ -8965,7 +8973,7 @@
       "port-version": 0
     },
     "sqlitecpp": {
-      "baseline": "3.3.2",
+      "baseline": "3.3.3",
       "port-version": 0
     },
     "sqlpp11": {
@@ -9245,7 +9253,7 @@
       "port-version": 0
     },
     "telnetpp": {
-      "baseline": "3.1.0",
+      "baseline": "4.0.0",
       "port-version": 0
     },
     "tensorflow": {
@@ -9269,8 +9277,8 @@
       "port-version": 0
     },
     "tesseract": {
-      "baseline": "5.5.0",
-      "port-version": 1
+      "baseline": "5.5.1",
+      "port-version": 0
     },
     "tevclient": {
       "baseline": "2023-12-04",
@@ -9394,6 +9402,10 @@
     },
     "tinyply": {
       "baseline": "2.3.4",
+      "port-version": 0
+    },
+    "tinyproto": {
+      "baseline": "1.0.0-dc7a6c2",
       "port-version": 0
     },
     "tinyspline": {
