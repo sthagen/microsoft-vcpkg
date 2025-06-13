@@ -1949,7 +1949,7 @@
       "port-version": 0
     },
     "cpp-httplib": {
-      "baseline": "0.20.1",
+      "baseline": "0.21.0",
       "port-version": 0
     },
     "cpp-ipc": {
@@ -2053,7 +2053,7 @@
       "port-version": 4
     },
     "cpptrace": {
-      "baseline": "0.8.3",
+      "baseline": "1.0.0",
       "port-version": 0
     },
     "cppunit": {
@@ -3225,7 +3225,7 @@
       "port-version": 0
     },
     "glaze": {
-      "baseline": "5.4.0",
+      "baseline": "5.4.1",
       "port-version": 0
     },
     "glbinding": {
@@ -4757,8 +4757,8 @@
       "port-version": 0
     },
     "libgit2": {
-      "baseline": "1.9.0",
-      "port-version": 1
+      "baseline": "1.9.1",
+      "port-version": 0
     },
     "libgme": {
       "baseline": "0.6.3",
@@ -6345,7 +6345,7 @@
       "port-version": 1
     },
     "ms-gdk": {
-      "baseline": "2504.0.4020",
+      "baseline": "2504.1.4046",
       "port-version": 0
     },
     "ms-gdkx": {
@@ -6997,11 +6997,11 @@
       "port-version": 3
     },
     "opentelemetry-cpp": {
-      "baseline": "1.20.0",
+      "baseline": "1.21.0",
       "port-version": 0
     },
     "opentelemetry-cpp-contrib-version": {
-      "baseline": "2025-05-21",
+      "baseline": "2025-06-11",
       "port-version": 0
     },
     "opentracing": {
@@ -8462,7 +8462,7 @@
     },
     "saucer": {
       "baseline": "6.0.1",
-      "port-version": 0
+      "port-version": 1
     },
     "sbp": {
       "baseline": "6.2.1",
@@ -8707,6 +8707,10 @@
     "signalrclient": {
       "baseline": "1.0.0-beta1-9",
       "port-version": 6
+    },
+    "signalsmith-dsp": {
+      "baseline": "1.6.2",
+      "port-version": 0
     },
     "sigslot": {
       "baseline": "1.0.0",
@@ -10241,7 +10245,7 @@
       "port-version": 0
     },
     "xbyak": {
-      "baseline": "7.25",
+      "baseline": "7.26",
       "port-version": 0
     },
     "xcb": {
