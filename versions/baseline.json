@@ -233,8 +233,8 @@
       "port-version": 10
     },
     "argtable3": {
-      "baseline": "3.3.0.116da6c",
-      "port-version": 1
+      "baseline": "3.3.1",
+      "port-version": 0
     },
     "argumentum": {
       "baseline": "0.3.2",
@@ -3078,7 +3078,7 @@
     },
     "g2o": {
       "baseline": "2024-12-14",
-      "port-version": 3
+      "port-version": 4
     },
     "g3log": {
       "baseline": "2.6",
@@ -3418,7 +3418,7 @@
     },
     "gstreamer": {
       "baseline": "1.26.1",
-      "port-version": 0
+      "port-version": 1
     },
     "gtest": {
       "baseline": "1.17.0",
@@ -4633,8 +4633,8 @@
       "port-version": 0
     },
     "libdshowcapture": {
-      "baseline": "0.6.0",
-      "port-version": 4
+      "baseline": "2025-02-08",
+      "port-version": 0
     },
     "libdvdcss": {
       "baseline": "1.4.3",
@@ -7862,7 +7862,7 @@
     },
     "qtbase": {
       "baseline": "6.8.3",
-      "port-version": 2
+      "port-version": 3
     },
     "qtcharts": {
       "baseline": "6.8.3",
@@ -8453,7 +8453,7 @@
       "port-version": 0
     },
     "safetyhook": {
-      "baseline": "0.6.6",
+      "baseline": "0.6.7",
       "port-version": 0
     },
     "sail": {
@@ -8625,7 +8625,7 @@
       "port-version": 2
     },
     "sentry-native": {
-      "baseline": "0.9.0",
+      "baseline": "0.9.1",
       "port-version": 0
     },
     "septag-dmon": {
@@ -8661,7 +8661,7 @@
       "port-version": 4
     },
     "sfcgal": {
-      "baseline": "2.0.0",
+      "baseline": "2.1.0",
       "port-version": 0
     },
     "sfgui": {
@@ -8730,6 +8730,10 @@
     },
     "signalsmith-dsp": {
       "baseline": "1.6.2",
+      "port-version": 0
+    },
+    "signalsmith-stretch": {
+      "baseline": "1.1.0",
       "port-version": 0
     },
     "sigslot": {
@@ -9010,7 +9014,7 @@
     },
     "sqlcipher": {
       "baseline": "4.6.1",
-      "port-version": 1
+      "port-version": 2
     },
     "sqlite-modern-cpp": {
       "baseline": "2023-12-03",
