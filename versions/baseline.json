@@ -2132,6 +2132,10 @@
       "baseline": "2023-03-30",
       "port-version": 0
     },
+    "crossdb": {
+      "baseline": "0.14.0",
+      "port-version": 0
+    },
     "crossguid": {
       "baseline": "2021-10-22",
       "port-version": 3
@@ -3613,8 +3617,8 @@
       "port-version": 1
     },
     "harfbuzz": {
-      "baseline": "10.2.0",
-      "port-version": 4
+      "baseline": "11.2.0",
+      "port-version": 0
     },
     "hash-library": {
       "baseline": "8",
@@ -4593,7 +4597,7 @@
       "port-version": 0
     },
     "libdatachannel": {
-      "baseline": "0.23.0",
+      "baseline": "0.23.1",
       "port-version": 0
     },
     "libdatrie": {
@@ -4902,7 +4906,7 @@
     },
     "libjxl": {
       "baseline": "0.11.1",
-      "port-version": 1
+      "port-version": 2
     },
     "libkeyfinder": {
       "baseline": "2.2.8",
@@ -5553,8 +5557,8 @@
       "port-version": 6
     },
     "libwebm": {
-      "baseline": "1.0.0.31",
-      "port-version": 1
+      "baseline": "1.0.0.32",
+      "port-version": 0
     },
     "libwebp": {
       "baseline": "1.5.0",
@@ -8065,7 +8069,7 @@
       "port-version": 9
     },
     "quill": {
-      "baseline": "10.0.0",
+      "baseline": "10.0.1",
       "port-version": 0
     },
     "quirc": {
@@ -8765,7 +8769,7 @@
       "port-version": 0
     },
     "simdutf": {
-      "baseline": "7.3.1",
+      "baseline": "7.3.2",
       "port-version": 0
     },
     "simonbrunel-qtpromise": {
