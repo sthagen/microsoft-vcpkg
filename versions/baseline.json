@@ -7261,7 +7261,7 @@
       "port-version": 3
     },
     "perfetto": {
-      "baseline": "50.1",
+      "baseline": "51.1",
       "port-version": 0
     },
     "pffft": {
@@ -7930,7 +7930,7 @@
     },
     "qtinterfaceframework": {
       "baseline": "6.8.3",
-      "port-version": 0
+      "port-version": 1
     },
     "qtkeychain": {
       "baseline": "0.14.3",
@@ -9107,6 +9107,10 @@
     "stb": {
       "baseline": "2024-07-29",
       "port-version": 1
+    },
+    "stc": {
+      "baseline": "5.0",
+      "port-version": 0
     },
     "stdexec": {
       "baseline": "2024-06-16",
