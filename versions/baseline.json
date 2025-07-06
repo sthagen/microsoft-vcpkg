@@ -2756,6 +2756,10 @@
       "baseline": "2.4.1",
       "port-version": 0
     },
+    "faker-cxx": {
+      "baseline": "4.0.1",
+      "port-version": 0
+    },
     "fameta-counter": {
       "baseline": "2021-02-13",
       "port-version": 0
@@ -3681,8 +3685,8 @@
       "port-version": 1
     },
     "highfive": {
-      "baseline": "2.10.1",
-      "port-version": 1
+      "baseline": "3.0.0",
+      "port-version": 0
     },
     "highs": {
       "baseline": "1.11.0",
@@ -5185,7 +5189,7 @@
       "port-version": 2
     },
     "libphonenumber": {
-      "baseline": "9.0.6",
+      "baseline": "9.0.8",
       "port-version": 0
     },
     "libplist": {
@@ -6709,12 +6713,12 @@
       "port-version": 2
     },
     "nspr": {
-      "baseline": "4.35",
-      "port-version": 4
+      "baseline": "4.36",
+      "port-version": 0
     },
     "nss": {
-      "baseline": "3.99",
-      "port-version": 1
+      "baseline": "3.113.1",
+      "port-version": 0
     },
     "nsync": {
       "baseline": "1.29.2",
@@ -7265,7 +7269,7 @@
       "port-version": 3
     },
     "perfetto": {
-      "baseline": "51.1",
+      "baseline": "51.2",
       "port-version": 0
     },
     "pffft": {
@@ -7670,6 +7674,10 @@
     },
     "qoixx": {
       "baseline": "0.1.7",
+      "port-version": 0
+    },
+    "qpdf": {
+      "baseline": "12.2.0",
       "port-version": 0
     },
     "qpid-proton": {
@@ -9088,6 +9096,10 @@
       "baseline": "1.8.0",
       "port-version": 0
     },
+    "st-tree": {
+      "baseline": "1.2.2",
+      "port-version": 0
+    },
     "stackwalker": {
       "baseline": "2023-06-24",
       "port-version": 0
@@ -9133,8 +9145,12 @@
       "port-version": 0
     },
     "stlab": {
-      "baseline": "1.7.1",
-      "port-version": 2
+      "baseline": "2.0.1",
+      "port-version": 0
+    },
+    "stlab-copy-on-write": {
+      "baseline": "1.0.3",
+      "port-version": 0
     },
     "stormlib": {
       "baseline": "9.26",
