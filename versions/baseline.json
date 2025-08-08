@@ -234,7 +234,7 @@
     },
     "argtable2": {
       "baseline": "2.13",
-      "port-version": 10
+      "port-version": 11
     },
     "argtable3": {
       "baseline": "3.3.1",
@@ -1518,7 +1518,7 @@
     },
     "c-ares": {
       "baseline": "1.34.5",
-      "port-version": 0
+      "port-version": 1
     },
     "c-dbg-macro": {
       "baseline": "2020-02-29",
@@ -3931,10 +3931,6 @@
     "intx": {
       "baseline": "0.13.0",
       "port-version": 0
-    },
-    "io2d": {
-      "baseline": "2020-09-14",
-      "port-version": 5
     },
     "iowa-hills-dsp": {
       "baseline": "0.1.0",
@@ -6530,7 +6526,7 @@
     },
     "mygui": {
       "baseline": "3.4.3",
-      "port-version": 3
+      "port-version": 4
     },
     "mypaint-brushes": {
       "baseline": "1.3.1",
@@ -6878,7 +6874,7 @@
     },
     "octave": {
       "baseline": "10.2.0",
-      "port-version": 0
+      "port-version": 1
     },
     "octomap": {
       "baseline": "1.10.0",
