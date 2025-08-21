@@ -172,6 +172,10 @@
       "baseline": "10.13.0",
       "port-version": 0
     },
+    "appstream": {
+      "baseline": "1.0.6",
+      "port-version": 0
+    },
     "appstream-glib": {
       "baseline": "0.8.3",
       "port-version": 0
@@ -642,7 +646,7 @@
     },
     "behaviortree-cpp": {
       "baseline": "4.7.0",
-      "port-version": 0
+      "port-version": 1
     },
     "benchmark": {
       "baseline": "1.9.4",
@@ -3213,7 +3217,7 @@
       "port-version": 0
     },
     "geographiclib": {
-      "baseline": "2.5",
+      "baseline": "2.5.1",
       "port-version": 0
     },
     "geos": {
@@ -5105,7 +5109,7 @@
       "port-version": 0
     },
     "libmultisense": {
-      "baseline": "7.1.0",
+      "baseline": "7.2.0",
       "port-version": 0
     },
     "libmupdf": {
