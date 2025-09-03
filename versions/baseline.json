@@ -205,7 +205,7 @@
       "port-version": 2
     },
     "arcticdb-sparrow": {
-      "baseline": "1.0.0",
+      "baseline": "1.1.0",
       "port-version": 0
     },
     "arcus": {
@@ -734,7 +734,7 @@
     },
     "blas": {
       "baseline": "2023-04-14",
-      "port-version": 3
+      "port-version": 4
     },
     "blaze": {
       "baseline": "3.8.2",
@@ -4086,7 +4086,7 @@
     },
     "json11": {
       "baseline": "2017-06-20",
-      "port-version": 6
+      "port-version": 7
     },
     "json5-parser": {
       "baseline": "1.0.0",
@@ -4410,7 +4410,7 @@
     },
     "lapack": {
       "baseline": "2023-06-10",
-      "port-version": 2
+      "port-version": 3
     },
     "lapack-reference": {
       "baseline": "3.12.1",
@@ -7297,8 +7297,8 @@
       "port-version": 0
     },
     "pcl": {
-      "baseline": "1.15.0",
-      "port-version": 3
+      "baseline": "1.15.1",
+      "port-version": 0
     },
     "pcre": {
       "baseline": "8.45",
@@ -8462,6 +8462,10 @@
     },
     "rocksdb": {
       "baseline": "10.4.2",
+      "port-version": 0
+    },
+    "rp-ntuples": {
+      "baseline": "0.1.2",
       "port-version": 0
     },
     "rpclib": {
@@ -10154,7 +10158,11 @@
     },
     "vtk": {
       "baseline": "9.3.0-pv5.12.1",
-      "port-version": 10
+      "port-version": 11
+    },
+    "vtk-compile-tools": {
+      "baseline": "9.3.0-pv5.12.1",
+      "port-version": 0
     },
     "vtk-dicom": {
       "baseline": "0.8.16",
