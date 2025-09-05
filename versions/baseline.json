@@ -1625,7 +1625,7 @@
       "port-version": 0
     },
     "cctz": {
-      "baseline": "2.4",
+      "baseline": "2.5",
       "port-version": 0
     },
     "cddlib": {
@@ -2282,7 +2282,7 @@
     },
     "cyrus-sasl": {
       "baseline": "2.1.28",
-      "port-version": 2
+      "port-version": 3
     },
     "czmq": {
       "baseline": "4.2.1",
@@ -3297,7 +3297,7 @@
       "port-version": 0
     },
     "glaze": {
-      "baseline": "5.6.1",
+      "baseline": "5.7.0",
       "port-version": 0
     },
     "glbinding": {
@@ -4859,6 +4859,10 @@
     "libgo": {
       "baseline": "3.1",
       "port-version": 5
+    },
+    "libgossip": {
+      "baseline": "1.0.0.2",
+      "port-version": 0
     },
     "libgpg-error": {
       "baseline": "1.55",
@@ -7133,7 +7137,7 @@
       "port-version": 0
     },
     "openvino": {
-      "baseline": "2025.2.0",
+      "baseline": "2025.3.0",
       "port-version": 0
     },
     "openvpn3": {
@@ -7169,7 +7173,7 @@
       "port-version": 1
     },
     "orange-math": {
-      "baseline": "3.2.3",
+      "baseline": "3.5.1",
       "port-version": 0
     },
     "orc": {
