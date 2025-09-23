@@ -17,8 +17,8 @@
       "port-version": 0
     },
     "abseil": {
-      "baseline": "20250127.1",
-      "port-version": 4
+      "baseline": "20250512.1",
+      "port-version": 0
     },
     "absent": {
       "baseline": "0.3.1",
@@ -465,7 +465,7 @@
       "port-version": 0
     },
     "aws-c-s3": {
-      "baseline": "0.8.7",
+      "baseline": "0.9.0",
       "port-version": 0
     },
     "aws-c-sdkutils": {
@@ -1789,7 +1789,7 @@
       "port-version": 0
     },
     "clickhouse-cpp": {
-      "baseline": "2.5.1",
+      "baseline": "2.6.0",
       "port-version": 0
     },
     "clipboardxx": {
@@ -2025,7 +2025,7 @@
       "port-version": 5
     },
     "cpp-sort": {
-      "baseline": "1.17.0",
+      "baseline": "2.0.0",
       "port-version": 0
     },
     "cpp-taskflow": {
@@ -3261,8 +3261,8 @@
       "port-version": 9
     },
     "ggml": {
-      "baseline": "2025-08-18",
-      "port-version": 1
+      "baseline": "0.9.1",
+      "port-version": 0
     },
     "ghc-filesystem": {
       "baseline": "1.5.14",
@@ -3450,7 +3450,7 @@
     },
     "grpc": {
       "baseline": "1.71.0",
-      "port-version": 2
+      "port-version": 3
     },
     "grppi": {
       "baseline": "0.4.0",
@@ -4177,7 +4177,7 @@
       "port-version": 1
     },
     "kerbal": {
-      "baseline": "2025.5.1",
+      "baseline": "2025.8.1",
       "port-version": 0
     },
     "keystone": {
@@ -4572,6 +4572,10 @@
       "baseline": "2024-11-30",
       "port-version": 0
     },
+    "libbluray": {
+      "baseline": "1.4.0",
+      "port-version": 0
+    },
     "libbson": {
       "baseline": "1.30.3",
       "port-version": 0
@@ -4657,8 +4661,8 @@
       "port-version": 0
     },
     "libczi": {
-      "baseline": "0.66.6",
-      "port-version": 1
+      "baseline": "0.67.0",
+      "port-version": 0
     },
     "libdatachannel": {
       "baseline": "0.23.2",
@@ -4965,7 +4969,7 @@
       "port-version": 2
     },
     "libjpeg-turbo": {
-      "baseline": "3.1.1",
+      "baseline": "3.1.2",
       "port-version": 0
     },
     "libjuice": {
@@ -5430,7 +5434,7 @@
     },
     "libspatialite": {
       "baseline": "5.1.0",
-      "port-version": 4
+      "port-version": 5
     },
     "libspnav": {
       "baseline": "0.2.3",
@@ -5531,6 +5535,10 @@
     "libu2f-server": {
       "baseline": "1.1.0",
       "port-version": 5
+    },
+    "libudfread": {
+      "baseline": "1.2.0",
+      "port-version": 0
     },
     "libudis86": {
       "baseline": "2018-01-28",
@@ -5717,7 +5725,7 @@
       "port-version": 0
     },
     "libxml2": {
-      "baseline": "2.14.6",
+      "baseline": "2.15.0",
       "port-version": 0
     },
     "libxmlb": {
@@ -5853,12 +5861,12 @@
       "port-version": 0
     },
     "livepp": {
-      "baseline": "2.9.3",
+      "baseline": "2.10.0",
       "port-version": 0
     },
     "llama-cpp": {
-      "baseline": "6301",
-      "port-version": 1
+      "baseline": "6550",
+      "port-version": 0
     },
     "llfio": {
       "baseline": "2025-01-13",
@@ -7318,7 +7326,7 @@
     },
     "pdal": {
       "baseline": "2.9.2",
-      "port-version": 0
+      "port-version": 1
     },
     "pdal-c": {
       "baseline": "2.2.0",
@@ -7626,7 +7634,7 @@
     },
     "protobuf": {
       "baseline": "5.29.5",
-      "port-version": 1
+      "port-version": 2
     },
     "protobuf-c": {
       "baseline": "1.5.2",
@@ -8897,7 +8905,7 @@
       "port-version": 0
     },
     "simdjson": {
-      "baseline": "4.0.5",
+      "baseline": "4.0.6",
       "port-version": 0
     },
     "simdutf": {
@@ -9074,7 +9082,7 @@
     },
     "spatialite-tools": {
       "baseline": "5.1.0-a",
-      "port-version": 0
+      "port-version": 1
     },
     "spdk": {
       "baseline": "24.01",
@@ -10441,7 +10449,7 @@
       "port-version": 1
     },
     "x86-simd-sort": {
-      "baseline": "5.0",
+      "baseline": "7.0",
       "port-version": 0
     },
     "xapian": {
