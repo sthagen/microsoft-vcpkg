@@ -281,7 +281,7 @@
       "port-version": 0
     },
     "arun11299-cpp-subprocess": {
-      "baseline": "2.1",
+      "baseline": "2.5",
       "port-version": 0
     },
     "ashes": {
@@ -301,8 +301,8 @@
       "port-version": 1
     },
     "asiosdk": {
-      "baseline": "2.3.3",
-      "port-version": 7
+      "baseline": "2.3.4",
+      "port-version": 0
     },
     "asmjit": {
       "baseline": "2025-01-22",
@@ -437,7 +437,7 @@
       "port-version": 0
     },
     "aws-c-cal": {
-      "baseline": "0.9.3",
+      "baseline": "0.9.5",
       "port-version": 0
     },
     "aws-c-common": {
@@ -3309,7 +3309,7 @@
       "port-version": 0
     },
     "glaze": {
-      "baseline": "6.0.0",
+      "baseline": "6.0.1",
       "port-version": 0
     },
     "glbinding": {
@@ -3672,6 +3672,10 @@
       "baseline": "18.0.0",
       "port-version": 1
     },
+    "hanjingo-high-jump": {
+      "baseline": "1.0.3",
+      "port-version": 0
+    },
     "happly": {
       "baseline": "2021-03-19",
       "port-version": 0
@@ -3841,7 +3845,7 @@
       "port-version": 0
     },
     "idyntree": {
-      "baseline": "12.4.0",
+      "baseline": "14.0.0",
       "port-version": 0
     },
     "if97": {
@@ -4449,8 +4453,8 @@
       "port-version": 1
     },
     "lastools": {
-      "baseline": "2.0.3",
-      "port-version": 1
+      "baseline": "2.0.4",
+      "port-version": 0
     },
     "laszip": {
       "baseline": "3.4.4",
@@ -4765,7 +4769,7 @@
       "port-version": 5
     },
     "libe57format": {
-      "baseline": "3.2.0",
+      "baseline": "3.3.0",
       "port-version": 0
     },
     "libebur128": {
@@ -5289,7 +5293,7 @@
       "port-version": 2
     },
     "libphonenumber": {
-      "baseline": "9.0.16",
+      "baseline": "9.0.17",
       "port-version": 0
     },
     "libplist": {
@@ -6637,7 +6641,7 @@
       "port-version": 0
     },
     "mzying2001-sw": {
-      "baseline": "0.0.6",
+      "baseline": "0.0.7",
       "port-version": 0
     },
     "nameof": {
@@ -7257,7 +7261,7 @@
       "port-version": 1
     },
     "orange-math": {
-      "baseline": "3.9.4",
+      "baseline": "3.10.1",
       "port-version": 0
     },
     "orc": {
@@ -8433,7 +8437,7 @@
       "port-version": 0
     },
     "rendergraph": {
-      "baseline": "1.4.1",
+      "baseline": "2.1.0",
       "port-version": 0
     },
     "replxx": {
@@ -8445,7 +8449,7 @@
       "port-version": 0
     },
     "rerun-sdk": {
-      "baseline": "0.25.1",
+      "baseline": "0.26.1",
       "port-version": 0
     },
     "rest-rpc": {
@@ -8553,7 +8557,7 @@
       "port-version": 0
     },
     "rp-ntuples": {
-      "baseline": "0.1.3",
+      "baseline": "0.1.4",
       "port-version": 0
     },
     "rpclib": {
@@ -9609,7 +9613,7 @@
       "port-version": 2
     },
     "thorvg": {
-      "baseline": "0.15.15",
+      "baseline": "0.15.16",
       "port-version": 0
     },
     "threadpool": {
@@ -10244,6 +10248,10 @@
       "baseline": "0.7.0",
       "port-version": 0
     },
+    "vsgqt": {
+      "baseline": "0.4.0",
+      "port-version": 0
+    },
     "vsgxchange": {
       "baseline": "1.1.7",
       "port-version": 0
@@ -10661,8 +10669,8 @@
       "port-version": 5
     },
     "yalantinglibs": {
-      "baseline": "0.5.4",
-      "port-version": 2
+      "baseline": "0.5.5",
+      "port-version": 0
     },
     "yaml-cpp": {
       "baseline": "0.8.0",
