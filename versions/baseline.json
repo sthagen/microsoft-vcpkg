@@ -270,7 +270,7 @@
     },
     "arrow": {
       "baseline": "21.0.0",
-      "port-version": 1
+      "port-version": 2
     },
     "arrow-adbc": {
       "baseline": "16",
@@ -3198,7 +3198,7 @@
     },
     "gdal": {
       "baseline": "3.11.4",
-      "port-version": 0
+      "port-version": 1
     },
     "gdbm": {
       "baseline": "1.24",
@@ -3749,7 +3749,7 @@
       "port-version": 0
     },
     "highs": {
-      "baseline": "1.11.0",
+      "baseline": "1.12.0",
       "port-version": 0
     },
     "highway": {
@@ -5869,7 +5869,7 @@
       "port-version": 1
     },
     "lief": {
-      "baseline": "0.17.0",
+      "baseline": "0.17.1",
       "port-version": 0
     },
     "lightgbm": {
@@ -6785,7 +6785,7 @@
       "port-version": 0
     },
     "nghttp2": {
-      "baseline": "1.67.1",
+      "baseline": "1.68.0",
       "port-version": 0
     },
     "nghttp2-asio": {
@@ -6897,7 +6897,7 @@
       "port-version": 0
     },
     "nuklear": {
-      "baseline": "4.12.7",
+      "baseline": "4.12.8",
       "port-version": 0
     },
     "numactl": {
@@ -7261,7 +7261,7 @@
       "port-version": 1
     },
     "orange-math": {
-      "baseline": "3.10.1",
+      "baseline": "4.0.1",
       "port-version": 0
     },
     "orc": {
@@ -7297,7 +7297,7 @@
       "port-version": 0
     },
     "otl": {
-      "baseline": "4.0.491",
+      "baseline": "4.0.494",
       "port-version": 0
     },
     "outcome": {
@@ -9464,6 +9464,10 @@
       "baseline": "7.0.0",
       "port-version": 0
     },
+    "supernovas": {
+      "baseline": "1.5.0",
+      "port-version": 0
+    },
     "sushant-wayal-stringhash": {
       "baseline": "1.1.0",
       "port-version": 0
@@ -9945,7 +9949,7 @@
       "port-version": 0
     },
     "unordered-dense": {
-      "baseline": "4.7.0",
+      "baseline": "4.8.0",
       "port-version": 0
     },
     "unqlite": {
@@ -10250,7 +10254,7 @@
     },
     "vsgqt": {
       "baseline": "0.4.0",
-      "port-version": 0
+      "port-version": 1
     },
     "vsgxchange": {
       "baseline": "1.1.7",
