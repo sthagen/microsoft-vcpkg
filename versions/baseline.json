@@ -437,7 +437,7 @@
       "port-version": 0
     },
     "aws-c-cal": {
-      "baseline": "0.9.5",
+      "baseline": "0.9.6",
       "port-version": 0
     },
     "aws-c-common": {
@@ -765,7 +765,7 @@
       "port-version": 0
     },
     "blosc2": {
-      "baseline": "2.21.3",
+      "baseline": "2.22.0",
       "port-version": 0
     },
     "blpapi": {
@@ -1457,8 +1457,8 @@
       "port-version": 3
     },
     "brotli": {
-      "baseline": "1.1.0",
-      "port-version": 1
+      "baseline": "1.2.0",
+      "port-version": 0
     },
     "brpc": {
       "baseline": "1.14.1",
@@ -2902,7 +2902,7 @@
     },
     "ffmpeg": {
       "baseline": "7.1.2",
-      "port-version": 1
+      "port-version": 2
     },
     "ffnvcodec": {
       "baseline": "12.2.72.0",
@@ -2989,7 +2989,7 @@
       "port-version": 0
     },
     "flecs": {
-      "baseline": "4.1.1",
+      "baseline": "4.1.2",
       "port-version": 0
     },
     "flint": {
@@ -3237,7 +3237,7 @@
       "port-version": 0
     },
     "geos": {
-      "baseline": "3.14.0",
+      "baseline": "3.14.1",
       "port-version": 0
     },
     "geotrans": {
@@ -3902,7 +3902,7 @@
     },
     "imgui-sfml": {
       "baseline": "3.0",
-      "port-version": 1
+      "port-version": 2
     },
     "imguizmo": {
       "baseline": "2024-05-29",
@@ -4905,7 +4905,7 @@
       "port-version": 6
     },
     "libgossip": {
-      "baseline": "1.0.0.2",
+      "baseline": "1.1.2.0",
       "port-version": 0
     },
     "libgpg-error": {
@@ -5718,7 +5718,7 @@
     },
     "libxcrypt": {
       "baseline": "4.4.38",
-      "port-version": 1
+      "port-version": 2
     },
     "libxcvt": {
       "baseline": "0.1.2",
@@ -5939,6 +5939,10 @@
     "llnl-units": {
       "baseline": "0.13.1",
       "port-version": 1
+    },
+    "lloyal-ai-inlined-vector": {
+      "baseline": "5.7.1",
+      "port-version": 0
     },
     "llvm": {
       "baseline": "18.1.6",
@@ -6669,7 +6673,7 @@
       "port-version": 0
     },
     "nanobind": {
-      "baseline": "2.5.0",
+      "baseline": "2.9.2",
       "port-version": 0
     },
     "nanodbc": {
@@ -8433,7 +8437,7 @@
       "port-version": 0
     },
     "reflectcpp": {
-      "baseline": "0.21.0",
+      "baseline": "0.22.0",
       "port-version": 0
     },
     "refprop-headers": {
@@ -8542,7 +8546,7 @@
     },
     "robin-hood-hashing": {
       "baseline": "3.11.5",
-      "port-version": 1
+      "port-version": 2
     },
     "robin-map": {
       "baseline": "1.4.0",
@@ -8969,7 +8973,7 @@
       "port-version": 0
     },
     "simdjson": {
-      "baseline": "4.0.7",
+      "baseline": "4.1.0",
       "port-version": 0
     },
     "simdutf": {
@@ -10113,7 +10117,7 @@
       "port-version": 0
     },
     "vcpkg-make": {
-      "baseline": "2025-09-29",
+      "baseline": "2025-10-26",
       "port-version": 0
     },
     "vcpkg-msbuild": {
