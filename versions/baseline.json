@@ -1729,7 +1729,7 @@
       "port-version": 0
     },
     "cimg": {
-      "baseline": "3.6.2",
+      "baseline": "3.6.3",
       "port-version": 0
     },
     "cinatra": {
@@ -3325,7 +3325,7 @@
       "port-version": 0
     },
     "glaze": {
-      "baseline": "6.0.2",
+      "baseline": "6.0.3",
       "port-version": 0
     },
     "glbinding": {
@@ -4537,7 +4537,7 @@
       "port-version": 3
     },
     "lexbor": {
-      "baseline": "2.5.0",
+      "baseline": "2.6.0",
       "port-version": 0
     },
     "lexilla": {
@@ -5745,7 +5745,7 @@
       "port-version": 0
     },
     "libxcrypt": {
-      "baseline": "4.5.1",
+      "baseline": "4.5.2",
       "port-version": 0
     },
     "libxcvt": {
@@ -9001,7 +9001,7 @@
       "port-version": 1
     },
     "simd": {
-      "baseline": "6.2.154",
+      "baseline": "6.2.155",
       "port-version": 0
     },
     "simde": {
