@@ -2436,6 +2436,10 @@
       "baseline": "0.1.0",
       "port-version": 0
     },
+    "directfb2": {
+      "baseline": "2025-11-25",
+      "port-version": 0
+    },
     "directx-dxc": {
       "baseline": "2025-10-10",
       "port-version": 0
@@ -2566,7 +2570,7 @@
     },
     "duckdb": {
       "baseline": "1.4.2",
-      "port-version": 0
+      "port-version": 1
     },
     "duckx": {
       "baseline": "1.2.2",
@@ -3061,8 +3065,8 @@
       "port-version": 0
     },
     "fontconfig": {
-      "baseline": "2.15.0",
-      "port-version": 4
+      "baseline": "2.17.1",
+      "port-version": 0
     },
     "foonathan-lexy": {
       "baseline": "2025.5.0",
@@ -3353,8 +3357,8 @@
       "port-version": 2
     },
     "glib": {
-      "baseline": "2.84.2",
-      "port-version": 2
+      "baseline": "2.86.2",
+      "port-version": 0
     },
     "glib-networking": {
       "baseline": "2.78.0",
@@ -3409,8 +3413,8 @@
       "port-version": 0
     },
     "gobject-introspection": {
-      "baseline": "1.82.0",
-      "port-version": 1
+      "baseline": "1.86.0",
+      "port-version": 0
     },
     "godot-cpp": {
       "baseline": "4.4",
@@ -5337,7 +5341,7 @@
       "port-version": 1
     },
     "libpng": {
-      "baseline": "1.6.50",
+      "baseline": "1.6.51",
       "port-version": 0
     },
     "libpopcnt": {
@@ -5350,7 +5354,7 @@
     },
     "libpq": {
       "baseline": "16.9",
-      "port-version": 1
+      "port-version": 2
     },
     "libpqxx": {
       "baseline": "7.10.1",
@@ -6793,11 +6797,19 @@
       "port-version": 0
     },
     "neko-function": {
-      "baseline": "1.0.7",
+      "baseline": "1.0.11",
+      "port-version": 0
+    },
+    "neko-log": {
+      "baseline": "1.0.6",
       "port-version": 0
     },
     "neko-schema": {
-      "baseline": "1.0.4",
+      "baseline": "1.1.4",
+      "port-version": 0
+    },
+    "neko-system": {
+      "baseline": "1.0.1",
       "port-version": 0
     },
     "neko-threadpool": {
@@ -7174,7 +7186,7 @@
     },
     "opencv4": {
       "baseline": "4.11.0",
-      "port-version": 7
+      "port-version": 8
     },
     "opendnp3": {
       "baseline": "3.1.1",
@@ -8513,7 +8525,7 @@
       "port-version": 0
     },
     "rerun-sdk": {
-      "baseline": "0.26.2",
+      "baseline": "0.27.2",
       "port-version": 0
     },
     "rest-rpc": {
@@ -9301,7 +9313,7 @@
       "port-version": 3
     },
     "sqlgen": {
-      "baseline": "0.4.0",
+      "baseline": "0.5.0",
       "port-version": 0
     },
     "sqlite-flux": {
@@ -10394,7 +10406,7 @@
     },
     "vulkan-loader": {
       "baseline": "1.4.309.0",
-      "port-version": 2
+      "port-version": 3
     },
     "vulkan-memory-allocator": {
       "baseline": "3.3.0",
@@ -10873,7 +10885,7 @@
       "port-version": 0
     },
     "zookeeper": {
-      "baseline": "3.8.4",
+      "baseline": "3.8.5",
       "port-version": 0
     },
     "zopfli": {
