@@ -1729,8 +1729,8 @@
       "port-version": 0
     },
     "cimg": {
-      "baseline": "3.6.5",
-      "port-version": 2
+      "baseline": "3.6.6",
+      "port-version": 0
     },
     "cinatra": {
       "baseline": "0.9.7",
@@ -2358,7 +2358,7 @@
     },
     "dawn": {
       "baseline": "20251202.213730",
-      "port-version": 1
+      "port-version": 2
     },
     "daxa": {
       "baseline": "3.3.1",
@@ -3329,7 +3329,7 @@
       "port-version": 0
     },
     "glaze": {
-      "baseline": "6.4.0",
+      "baseline": "6.4.1",
       "port-version": 0
     },
     "glbinding": {
@@ -4465,7 +4465,7 @@
       "port-version": 0
     },
     "laszip": {
-      "baseline": "3.4.4",
+      "baseline": "3.5.0",
       "port-version": 0
     },
     "launch-darkly-server": {
@@ -5105,7 +5105,7 @@
       "port-version": 0
     },
     "libmediainfo": {
-      "baseline": "25.9",
+      "baseline": "25.10",
       "port-version": 0
     },
     "libmem": {
@@ -7225,8 +7225,8 @@
       "port-version": 4
     },
     "openmvs": {
-      "baseline": "2.1.0",
-      "port-version": 8
+      "baseline": "2.3.0",
+      "port-version": 0
     },
     "openni2": {
       "baseline": "2.2.0.33",
@@ -7349,7 +7349,7 @@
       "port-version": 0
     },
     "otl": {
-      "baseline": "4.0.496",
+      "baseline": "4.0.497",
       "port-version": 0
     },
     "outcome": {
@@ -9045,8 +9045,8 @@
       "port-version": 0
     },
     "simpleble": {
-      "baseline": "0.8.1",
-      "port-version": 1
+      "baseline": "0.10.4",
+      "port-version": 0
     },
     "simpleini": {
       "baseline": "4.25",
@@ -9069,8 +9069,8 @@
       "port-version": 0
     },
     "skyr-url": {
-      "baseline": "1.13.0",
-      "port-version": 2
+      "baseline": "3.0.0",
+      "port-version": 0
     },
     "sleef": {
       "baseline": "3.9.0",
@@ -10113,7 +10113,7 @@
       "port-version": 1
     },
     "utf8proc": {
-      "baseline": "2.11.2",
+      "baseline": "2.11.3",
       "port-version": 0
     },
     "utfcpp": {
@@ -10605,7 +10605,7 @@
       "port-version": 0
     },
     "wt": {
-      "baseline": "4.12.0",
+      "baseline": "4.12.1",
       "port-version": 0
     },
     "wtl": {
