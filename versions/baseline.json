@@ -281,8 +281,8 @@
       "port-version": 9
     },
     "arrow": {
-      "baseline": "21.0.0",
-      "port-version": 2
+      "baseline": "23.0.0",
+      "port-version": 0
     },
     "arrow-adbc": {
       "baseline": "16",
@@ -2693,8 +2693,8 @@
       "port-version": 0
     },
     "ecm": {
-      "baseline": "6.7.0",
-      "port-version": 2
+      "baseline": "6.22.0",
+      "port-version": 0
     },
     "ecos": {
       "baseline": "2.0.10",
@@ -4366,7 +4366,7 @@
     },
     "kf5kio": {
       "baseline": "5.116.0",
-      "port-version": 1
+      "port-version": 2
     },
     "kf5newstuff": {
       "baseline": "5.116.0",
@@ -4394,7 +4394,7 @@
     },
     "kf5solid": {
       "baseline": "5.116.0",
-      "port-version": 0
+      "port-version": 1
     },
     "kf5sonnet": {
       "baseline": "5.116.0",
@@ -5517,7 +5517,7 @@
       "port-version": 2
     },
     "libslirp": {
-      "baseline": "4.9.0",
+      "baseline": "4.9.1",
       "port-version": 0
     },
     "libsm": {
@@ -7504,6 +7504,10 @@
       "baseline": "1.5.3",
       "port-version": 0
     },
+    "patternia": {
+      "baseline": "0.6.3",
+      "port-version": 0
+    },
     "pbc": {
       "baseline": "0.5.14",
       "port-version": 9
@@ -8286,7 +8290,7 @@
     },
     "qtmultimedia": {
       "baseline": "6.10.0",
-      "port-version": 0
+      "port-version": 1
     },
     "qtnetworkauth": {
       "baseline": "6.10.0",
@@ -9169,7 +9173,7 @@
       "port-version": 0
     },
     "sintra": {
-      "baseline": "1.0.1",
+      "baseline": "1.0.2",
       "port-version": 0
     },
     "sjpeg": {
