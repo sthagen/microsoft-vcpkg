@@ -57,8 +57,8 @@
       "port-version": 0
     },
     "aeron": {
-      "baseline": "1.50.0",
-      "port-version": 1
+      "baseline": "1.50.1",
+      "port-version": 0
     },
     "air-ctl": {
       "baseline": "1.1.2",
@@ -661,7 +661,7 @@
       "port-version": 0
     },
     "bdwgc": {
-      "baseline": "8.2.10",
+      "baseline": "8.2.12",
       "port-version": 0
     },
     "behaviortree-cpp": {
@@ -2029,7 +2029,7 @@
       "port-version": 0
     },
     "cpp-lazy": {
-      "baseline": "9.0.0",
+      "baseline": "9.0.1",
       "port-version": 0
     },
     "cpp-netlib": {
@@ -2664,6 +2664,10 @@
       "baseline": "3.27.1",
       "port-version": 0
     },
+    "easy-profiler": {
+      "baseline": "2.1.0",
+      "port-version": 0
+    },
     "easycl": {
       "baseline": "0.3",
       "port-version": 2
@@ -2679,10 +2683,6 @@
     "easyloggingpp": {
       "baseline": "9.97.1",
       "port-version": 1
-    },
-    "easy-profiler": {
-      "baseline": "2.1.0",
-      "port-version": 0
     },
     "eathread": {
       "baseline": "1.32.09",
@@ -4218,7 +4218,7 @@
     },
     "kedixa-coke": {
       "baseline": "0.7.0",
-      "port-version": 0
+      "port-version": 1
     },
     "kenlm": {
       "baseline": "20230531",
@@ -5117,7 +5117,7 @@
       "port-version": 2
     },
     "libmariadb": {
-      "baseline": "3.4.7",
+      "baseline": "3.4.8",
       "port-version": 0
     },
     "libmatio-cpp": {
@@ -5945,7 +5945,7 @@
       "port-version": 0
     },
     "live555": {
-      "baseline": "2024-11-28",
+      "baseline": "2026-01-12",
       "port-version": 0
     },
     "livepp": {
@@ -6429,7 +6429,7 @@
       "port-version": 0
     },
     "miniz": {
-      "baseline": "3.1.0",
+      "baseline": "3.1.1",
       "port-version": 0
     },
     "minizip": {
@@ -9180,6 +9180,10 @@
       "baseline": "0.1.4",
       "port-version": 0
     },
+    "slick-socket": {
+      "baseline": "1.0.6",
+      "port-version": 0
+    },
     "slikenet": {
       "baseline": "2021-06-07",
       "port-version": 3
@@ -9438,7 +9442,7 @@
     },
     "srpc": {
       "baseline": "0.10.4",
-      "port-version": 0
+      "port-version": 1
     },
     "sse2neon": {
       "baseline": "1.9.1",
@@ -10694,6 +10698,10 @@
     },
     "workflow": {
       "baseline": "0.11.11",
+      "port-version": 1
+    },
+    "workflow-win": {
+      "baseline": "2026-01-09",
       "port-version": 0
     },
     "wpilib": {
