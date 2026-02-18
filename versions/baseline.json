@@ -289,7 +289,7 @@
       "port-version": 10
     },
     "arrow": {
-      "baseline": "23.0.0",
+      "baseline": "23.0.1",
       "port-version": 0
     },
     "arrow-adbc": {
@@ -481,7 +481,7 @@
       "port-version": 0
     },
     "aws-c-mqtt": {
-      "baseline": "0.13.3",
+      "baseline": "0.14.0",
       "port-version": 0
     },
     "aws-c-s3": {
@@ -5457,7 +5457,7 @@
       "port-version": 0
     },
     "libscran-umappp": {
-      "baseline": "3.1.0",
+      "baseline": "3.2.0",
       "port-version": 0
     },
     "libsecret": {
@@ -6042,7 +6042,7 @@
     },
     "ltla-cppirlba": {
       "baseline": "3.0.1",
-      "port-version": 0
+      "port-version": 1
     },
     "ltla-cppkmeans": {
       "baseline": "4.0.6",
