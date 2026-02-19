@@ -453,7 +453,7 @@
       "port-version": 2
     },
     "aws-c-auth": {
-      "baseline": "0.9.5",
+      "baseline": "0.9.6",
       "port-version": 0
     },
     "aws-c-cal": {
@@ -661,7 +661,7 @@
       "port-version": 4
     },
     "bddisasm": {
-      "baseline": "3.0.0",
+      "baseline": "3.0.1",
       "port-version": 0
     },
     "bde": {
@@ -2705,7 +2705,7 @@
       "port-version": 0
     },
     "ecm": {
-      "baseline": "6.22.0",
+      "baseline": "6.23.0",
       "port-version": 0
     },
     "ecos": {
@@ -3617,7 +3617,7 @@
       "port-version": 0
     },
     "gul17": {
-      "baseline": "25.7.0",
+      "baseline": "26.2.0",
       "port-version": 0
     },
     "gumbo": {
@@ -4161,7 +4161,7 @@
       "port-version": 0
     },
     "jwsung91-unilink": {
-      "baseline": "0.3.3",
+      "baseline": "0.4.0",
       "port-version": 0
     },
     "jwt-cpp": {
@@ -4769,12 +4769,12 @@
       "port-version": 12
     },
     "libdivide": {
-      "baseline": "5.2.0",
+      "baseline": "5.3.0",
       "port-version": 0
     },
     "libdjinterop": {
       "baseline": "0.27.0",
-      "port-version": 0
+      "port-version": 1
     },
     "libdmtx": {
       "baseline": "0.7.7",
@@ -7245,7 +7245,7 @@
       "port-version": 0
     },
     "openjph": {
-      "baseline": "0.26.1",
+      "baseline": "0.26.3",
       "port-version": 0
     },
     "openldap": {
@@ -7354,6 +7354,10 @@
     },
     "orange-math": {
       "baseline": "5.0.0",
+      "port-version": 0
+    },
+    "orange-vmprotect-sdk": {
+      "baseline": "1.0.2",
       "port-version": 0
     },
     "orc": {
@@ -8501,7 +8505,7 @@
       "port-version": 0
     },
     "reactiveplusplus": {
-      "baseline": "2.2.2",
+      "baseline": "2.2.3",
       "port-version": 0
     },
     "reactphysics3d": {
@@ -10209,7 +10213,7 @@
       "port-version": 0
     },
     "usearch": {
-      "baseline": "2.23.0",
+      "baseline": "2.24.0",
       "port-version": 0
     },
     "usockets": {
@@ -10417,7 +10421,7 @@
       "port-version": 1
     },
     "vincentlaucsb-csv-parser": {
-      "baseline": "2.4.0",
+      "baseline": "2.4.2",
       "port-version": 0
     },
     "visit-struct": {
@@ -11066,6 +11070,10 @@
     },
     "zug": {
       "baseline": "0.1.2",
+      "port-version": 0
+    },
+    "zxc": {
+      "baseline": "0.7.3",
       "port-version": 0
     },
     "zycore": {
