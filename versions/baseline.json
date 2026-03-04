@@ -17,7 +17,7 @@
       "port-version": 0
     },
     "abseil": {
-      "baseline": "20250814.1",
+      "baseline": "20260107.1",
       "port-version": 0
     },
     "absent": {
@@ -473,7 +473,7 @@
       "port-version": 0
     },
     "aws-c-http": {
-      "baseline": "0.10.10",
+      "baseline": "0.10.11",
       "port-version": 0
     },
     "aws-c-io": {
@@ -793,7 +793,7 @@
       "port-version": 0
     },
     "blosc2": {
-      "baseline": "2.23.0",
+      "baseline": "2.23.1",
       "port-version": 0
     },
     "blpapi": {
@@ -1573,7 +1573,7 @@
       "port-version": 0
     },
     "cachelib": {
-      "baseline": "2025.05.19.00",
+      "baseline": "2026.02.23.00",
       "port-version": 0
     },
     "cadons-ctus": {
@@ -1709,7 +1709,7 @@
       "port-version": 7
     },
     "charls": {
-      "baseline": "2.4.2",
+      "baseline": "2.4.3",
       "port-version": 0
     },
     "chartdir": {
@@ -2141,7 +2141,7 @@
       "port-version": 0
     },
     "cppvrf": {
-      "baseline": "1.1.0",
+      "baseline": "1.4.0",
       "port-version": 0
     },
     "cppwinrt": {
@@ -2418,7 +2418,7 @@
     },
     "dbus": {
       "baseline": "1.16.2",
-      "port-version": 2
+      "port-version": 3
     },
     "dbus-cxx": {
       "baseline": "2.6.0",
@@ -2581,7 +2581,7 @@
       "port-version": 0
     },
     "drlibs": {
-      "baseline": "2026-01-16",
+      "baseline": "2026-03-03",
       "port-version": 0
     },
     "drogon": {
@@ -2961,7 +2961,7 @@
       "port-version": 1
     },
     "fbthrift": {
-      "baseline": "2025.05.19.00",
+      "baseline": "2026.02.23.00",
       "port-version": 0
     },
     "fcl": {
@@ -3021,7 +3021,7 @@
       "port-version": 0
     },
     "fizz": {
-      "baseline": "2025.05.19.00",
+      "baseline": "2026.02.23.00",
       "port-version": 0
     },
     "fkyaml": {
@@ -3113,7 +3113,7 @@
       "port-version": 0
     },
     "folly": {
-      "baseline": "2025.05.19.00",
+      "baseline": "2026.02.23.00",
       "port-version": 0
     },
     "font-chef": {
@@ -3546,7 +3546,7 @@
     },
     "grpc": {
       "baseline": "1.76.0",
-      "port-version": 0
+      "port-version": 1
     },
     "grppi": {
       "baseline": "0.4.0",
@@ -5642,7 +5642,7 @@
     },
     "libu2f-server": {
       "baseline": "1.1.0",
-      "port-version": 5
+      "port-version": 6
     },
     "libudfread": {
       "baseline": "1.2.0",
@@ -6314,7 +6314,7 @@
     },
     "mdl-sdk": {
       "baseline": "2025.0.5",
-      "port-version": 0
+      "port-version": 1
     },
     "mdns": {
       "baseline": "1.4.3",
@@ -6429,7 +6429,7 @@
       "port-version": 0
     },
     "miniaudio": {
-      "baseline": "0.11.24",
+      "baseline": "0.11.25",
       "port-version": 0
     },
     "minifb": {
@@ -6685,7 +6685,7 @@
       "port-version": 7
     },
     "mvfst": {
-      "baseline": "2025.05.19.00",
+      "baseline": "2026.02.23.00",
       "port-version": 0
     },
     "mxml": {
@@ -7501,7 +7501,7 @@
       "port-version": 0
     },
     "patternia": {
-      "baseline": "0.8.0",
+      "baseline": "0.8.2",
       "port-version": 0
     },
     "pbc": {
@@ -7641,7 +7641,7 @@
       "port-version": 0
     },
     "plf-colony": {
-      "baseline": "7.6.1",
+      "baseline": "7.6.10",
       "port-version": 0
     },
     "plf-hive": {
@@ -7653,7 +7653,7 @@
       "port-version": 0
     },
     "plf-list": {
-      "baseline": "2.7.24",
+      "baseline": "2.8.0",
       "port-version": 0
     },
     "plf-nanotimer": {
@@ -7869,7 +7869,7 @@
       "port-version": 0
     },
     "proxygen": {
-      "baseline": "2025.05.19.00",
+      "baseline": "2026.02.23.00",
       "port-version": 0
     },
     "psimd": {
@@ -9129,7 +9129,7 @@
       "port-version": 1
     },
     "simd": {
-      "baseline": "6.2.158",
+      "baseline": "6.2.159",
       "port-version": 0
     },
     "simde": {
@@ -10593,7 +10593,7 @@
       "port-version": 0
     },
     "wangle": {
-      "baseline": "2025.05.19.00",
+      "baseline": "2026.02.23.00",
       "port-version": 0
     },
     "wasmedge": {
@@ -10753,7 +10753,7 @@
       "port-version": 0
     },
     "wt": {
-      "baseline": "4.12.3",
+      "baseline": "4.12.5",
       "port-version": 0
     },
     "wtl": {
@@ -10794,7 +10794,7 @@
     },
     "xapian": {
       "baseline": "1.4.22",
-      "port-version": 2
+      "port-version": 3
     },
     "xaudio2redist": {
       "baseline": "1.2.13",
