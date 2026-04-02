@@ -6569,8 +6569,8 @@
       "port-version": 0
     },
     "mongoose": {
-      "baseline": "7.20",
-      "port-version": 1
+      "baseline": "7.21",
+      "port-version": 0
     },
     "monkeys-audio": {
       "baseline": "10.08",
@@ -8669,7 +8669,7 @@
       "port-version": 0
     },
     "rerun-sdk": {
-      "baseline": "0.30.2",
+      "baseline": "0.31.1",
       "port-version": 0
     },
     "rest-rpc": {
@@ -8689,7 +8689,7 @@
       "port-version": 0
     },
     "restinio": {
-      "baseline": "0.7.9",
+      "baseline": "0.7.9.1",
       "port-version": 0
     },
     "resultlib": {
