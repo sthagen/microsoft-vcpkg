@@ -469,7 +469,7 @@
       "port-version": 0
     },
     "aws-c-http": {
-      "baseline": "0.10.13",
+      "baseline": "0.10.14",
       "port-version": 0
     },
     "aws-c-io": {
@@ -493,7 +493,7 @@
       "port-version": 0
     },
     "aws-crt-cpp": {
-      "baseline": "0.38.3",
+      "baseline": "0.38.4",
       "port-version": 0
     },
     "aws-lambda-cpp": {
@@ -629,7 +629,7 @@
       "port-version": 1
     },
     "baresip-libre": {
-      "baseline": "4.6.0",
+      "baseline": "4.7.0",
       "port-version": 0
     },
     "bark": {
@@ -2402,7 +2402,7 @@
     },
     "dawn": {
       "baseline": "20260219.200501",
-      "port-version": 0
+      "port-version": 1
     },
     "daxa": {
       "baseline": "3.3.1",
@@ -2473,7 +2473,7 @@
       "port-version": 0
     },
     "dingo": {
-      "baseline": "0.1.2",
+      "baseline": "0.2.0",
       "port-version": 0
     },
     "directfb2": {
@@ -3441,7 +3441,7 @@
       "port-version": 2
     },
     "glib": {
-      "baseline": "2.86.4",
+      "baseline": "2.86.5",
       "port-version": 0
     },
     "glib-networking": {
@@ -3977,7 +3977,7 @@
       "port-version": 0
     },
     "implot3d": {
-      "baseline": "0.3",
+      "baseline": "0.4",
       "port-version": 0
     },
     "indicators": {
@@ -5441,7 +5441,7 @@
       "port-version": 0
     },
     "libpqxx": {
-      "baseline": "8.0.0",
+      "baseline": "8.0.1",
       "port-version": 0
     },
     "libprotobuf-mutator": {
@@ -5805,7 +5805,7 @@
       "port-version": 0
     },
     "libvmaf": {
-      "baseline": "3.0.0",
+      "baseline": "3.1.0",
       "port-version": 0
     },
     "libvorbis": {
@@ -5989,7 +5989,7 @@
       "port-version": 0
     },
     "libzim": {
-      "baseline": "9.5.1",
+      "baseline": "9.6.0",
       "port-version": 0
     },
     "libzip": {
@@ -6142,7 +6142,7 @@
     },
     "ltla-subpar": {
       "baseline": "0.5.0",
-      "port-version": 0
+      "port-version": 1
     },
     "lua": {
       "baseline": "5.5.0",
@@ -7017,7 +7017,7 @@
       "port-version": 0
     },
     "node-api-headers": {
-      "baseline": "1.6.0",
+      "baseline": "1.8.0",
       "port-version": 0
     },
     "nodesoup": {
@@ -7241,7 +7241,7 @@
       "port-version": 0
     },
     "open-dis-cpp": {
-      "baseline": "1.0.1",
+      "baseline": "1.1.0",
       "port-version": 0
     },
     "open62541": {
@@ -7453,7 +7453,7 @@
       "port-version": 1
     },
     "orange-math": {
-      "baseline": "5.1.0",
+      "baseline": "5.1.1",
       "port-version": 0
     },
     "orange-vmprotect-sdk": {
@@ -8672,6 +8672,10 @@
       "baseline": "2022-12-07",
       "port-version": 0
     },
+    "rego-cpp": {
+      "baseline": "1.3.1",
+      "port-version": 0
+    },
     "rendergraph": {
       "baseline": "2.1.0",
       "port-version": 0
@@ -9057,7 +9061,7 @@
       "port-version": 1
     },
     "sdl3-shadercross": {
-      "baseline": "3.0.0-preview1",
+      "baseline": "3.0.0-preview2",
       "port-version": 0
     },
     "sdl3-ttf": {
@@ -9093,7 +9097,7 @@
       "port-version": 0
     },
     "sentry-native": {
-      "baseline": "0.13.4",
+      "baseline": "0.13.5",
       "port-version": 0
     },
     "septag-dmon": {
@@ -9777,7 +9781,7 @@
       "port-version": 0
     },
     "sundials": {
-      "baseline": "7.6.0",
+      "baseline": "7.7.0",
       "port-version": 0
     },
     "superglu": {
@@ -10245,7 +10249,7 @@
       "port-version": 0
     },
     "typecast-ai": {
-      "baseline": "1.0.1",
+      "baseline": "1.0.3",
       "port-version": 0
     },
     "uchardet": {
@@ -10887,6 +10891,10 @@
     "x265": {
       "baseline": "4.1",
       "port-version": 1
+    },
+    "x509cert-banned": {
+      "baseline": "2022-04-19",
+      "port-version": 0
     },
     "x86-simd-sort": {
       "baseline": "7.0",
