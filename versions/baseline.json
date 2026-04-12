@@ -3322,7 +3322,7 @@
     },
     "gdk-pixbuf": {
       "baseline": "2.44.6",
-      "port-version": 0
+      "port-version": 1
     },
     "gegl": {
       "baseline": "0.4.70",
@@ -5425,7 +5425,7 @@
       "port-version": 1
     },
     "libpng": {
-      "baseline": "1.6.56",
+      "baseline": "1.6.57",
       "port-version": 0
     },
     "libpopcnt": {
@@ -8701,8 +8701,8 @@
       "port-version": 1
     },
     "restbed": {
-      "baseline": "4.8",
-      "port-version": 3
+      "baseline": "5.0.0",
+      "port-version": 0
     },
     "restc-cpp": {
       "baseline": "1.0.0",
