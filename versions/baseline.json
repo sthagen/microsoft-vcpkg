@@ -249,7 +249,7 @@
       "port-version": 0
     },
     "args": {
-      "baseline": "6.4.11",
+      "baseline": "6.4.12",
       "port-version": 0
     },
     "argtable2": {
@@ -481,7 +481,7 @@
       "port-version": 0
     },
     "aws-c-s3": {
-      "baseline": "0.12.2",
+      "baseline": "0.12.3",
       "port-version": 0
     },
     "aws-c-sdkutils": {
@@ -3185,7 +3185,7 @@
       "port-version": 9
     },
     "freerdp": {
-      "baseline": "3.24.1",
+      "baseline": "3.25.0",
       "port-version": 0
     },
     "freetds": {
@@ -3737,7 +3737,7 @@
       "port-version": 2
     },
     "harfbuzz": {
-      "baseline": "13.0.1",
+      "baseline": "14.2.0",
       "port-version": 0
     },
     "hash-library": {
@@ -3901,7 +3901,7 @@
       "port-version": 1
     },
     "icu": {
-      "baseline": "78.2",
+      "baseline": "78.3",
       "port-version": 0
     },
     "ideviceinstaller": {
@@ -4482,7 +4482,7 @@
     },
     "kguiaddons": {
       "baseline": "6.25.0",
-      "port-version": 0
+      "port-version": 1
     },
     "ki18n": {
       "baseline": "6.25.0",
@@ -6205,7 +6205,7 @@
       "port-version": 1
     },
     "luau": {
-      "baseline": "0.717",
+      "baseline": "0.718",
       "port-version": 0
     },
     "luminoengine": {
@@ -8625,7 +8625,7 @@
       "port-version": 0
     },
     "raylib-cpp": {
-      "baseline": "5.5.1",
+      "baseline": "6.0.0",
       "port-version": 0
     },
     "rbdl": {
