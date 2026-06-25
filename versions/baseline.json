@@ -1941,7 +1941,7 @@
       "port-version": 0
     },
     "comms-ublox": {
-      "baseline": "1.0.0",
+      "baseline": "3.0.7",
       "port-version": 0
     },
     "commsdsl": {
@@ -2289,8 +2289,8 @@
       "port-version": 8
     },
     "curl": {
-      "baseline": "8.20.0",
-      "port-version": 2
+      "baseline": "8.21.0",
+      "port-version": 0
     },
     "curlcpp": {
       "baseline": "3.1",
@@ -2673,7 +2673,7 @@
       "port-version": 0
     },
     "dv-processing": {
-      "baseline": "2.0.2",
+      "baseline": "2.0.3",
       "port-version": 0
     },
     "dx": {
@@ -2921,7 +2921,7 @@
       "port-version": 3
     },
     "faiss": {
-      "baseline": "1.14.1",
+      "baseline": "1.14.3",
       "port-version": 0
     },
     "fakeit": {
@@ -3441,7 +3441,7 @@
       "port-version": 0
     },
     "glaze": {
-      "baseline": "7.8.2",
+      "baseline": "7.8.3",
       "port-version": 0
     },
     "glbinding": {
@@ -4769,8 +4769,8 @@
       "port-version": 0
     },
     "libass": {
-      "baseline": "0.17.4",
-      "port-version": 1
+      "baseline": "0.17.5",
+      "port-version": 0
     },
     "libassert": {
       "baseline": "2.2.1",
@@ -4821,7 +4821,7 @@
       "port-version": 4
     },
     "libcap": {
-      "baseline": "2.77",
+      "baseline": "2.78",
       "port-version": 0
     },
     "libcbor": {
@@ -6681,7 +6681,7 @@
       "port-version": 0
     },
     "mongoose": {
-      "baseline": "7.21",
+      "baseline": "7.22",
       "port-version": 0
     },
     "monkeys-audio": {
@@ -6933,7 +6933,7 @@
       "port-version": 0
     },
     "nanoprintf": {
-      "baseline": "0.6.0",
+      "baseline": "0.6.1",
       "port-version": 0
     },
     "nanorange": {
@@ -9209,7 +9209,7 @@
       "port-version": 0
     },
     "sentry-native": {
-      "baseline": "0.15.1",
+      "baseline": "0.15.2",
       "port-version": 0
     },
     "septag-dmon": {
@@ -9246,7 +9246,7 @@
     },
     "sfcgal": {
       "baseline": "2.3.0",
-      "port-version": 0
+      "port-version": 1
     },
     "sfgui": {
       "baseline": "1.0.0",
@@ -9433,7 +9433,7 @@
       "port-version": 0
     },
     "slickquant-hyperliquid-cpp": {
-      "baseline": "0.2.0",
+      "baseline": "0.2.1",
       "port-version": 0
     },
     "slikenet": {
